@@ -21,20 +21,20 @@
                   "repo_info": {
                     "archived": false,
                     "language": "C++",
-                    "last_commit": "2026-08-13T01:53:22Z",
+                    "last_commit": "2026-08-13T08:53:44Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8576
+                    "stars": 8577
                   }
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-13T01:53:22Z",
+                "last_commit": "2026-08-13T08:53:44Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8576
+                "stars": 8577
               }
             },
             {
@@ -82,7 +82,7 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28324
+                    "stars": 28325
                   }
                 }
               ]
@@ -197,7 +197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:26:19.727Z",
+    "last_updated": "2026-08-13T09:21:04.449Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
     "enhanced_repository": "enhansome/enhansome-ocap",
