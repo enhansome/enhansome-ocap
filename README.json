@@ -1,0 +1,207 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "JavaScript",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2025-01: Release v1.20250108.0 · cloudflare/workerd",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C++",
+                    "last_commit": "2026-08-13T01:53:22Z",
+                    "owner": "cloudflare",
+                    "repo": "workerd",
+                    "stars": 8576
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-13T01:53:22Z",
+                "owner": "cloudflare",
+                "repo": "workerd",
+                "stars": 8576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LavaMoat/LavaMoat: tools for sandboxing your dependency graph",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2024-12: Release lavamoat: v9.0.5",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-12T22:01:08Z",
+                    "owner": "LavaMoat",
+                    "repo": "LavaMoat",
+                    "stars": 1214
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T22:01:08Z",
+                "owner": "LavaMoat",
+                "repo": "LavaMoat",
+                "stars": 1214
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "NextAuth.js",
+              "description": "authentication for Next.js, including an Email Provider that issues short-lived “magic link” URLs as bearer capabilities.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2024-02 — Discussion: Email Provider magic links",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-22T19:42:19Z",
+                    "owner": "nextauthjs",
+                    "repo": "next-auth",
+                    "stars": 28324
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C / C++",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Moddable SDK",
+              "description": "\"Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.\"",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2024-12: Release Moddable SDK 5.3.3",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "C",
+                    "last_commit": "2026-08-05T19:53:18Z",
+                    "owner": "Moddable-OpenSource",
+                    "repo": "moddable",
+                    "stars": 1552
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-05T19:53:18Z",
+                "owner": "Moddable-OpenSource",
+                "repo": "moddable",
+                "stars": 1552
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Libraries and Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "2017-06 Capability-Based Network Communication for Capsicum/CloudABI",
+          "description": "April–June 2017 FreeBSD status report.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flower: A Label-Based Network Backplane",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2019-01-01T21:15:45Z",
+                "owner": "NuxiNL",
+                "repo": "flower",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ARPC: GRPC-Like RPC Library That Supports File Descriptor Passing",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2019-01-14T13:47:27Z",
+                "owner": "NuxiNL",
+                "repo": "arpc",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "2016-01: fun with Capper and OFX financial transaction fetching",
+          "description": "to cap-talk",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Capper",
+              "description": "is a web application server built on Node.js/Express using the Waterken webkey protocol for object capability security.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-10-27T16:49:01Z",
+                "owner": "marcsAtSkyhunter",
+                "repo": "Capper",
+                "stars": 15
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Articles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:19.727Z",
+    "original_repository": "dckc/awesome-ocap",
+    "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
+    "enhanced_repository": "enhansome/enhansome-ocap",
+    "enhanced_repository_description": null,
+    "title": "Awesome Object Capabilities and Capability-based Security with stars"
+  }
+}
