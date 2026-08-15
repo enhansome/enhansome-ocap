@@ -21,20 +21,20 @@
                   "repo_info": {
                     "archived": false,
                     "language": "C++",
-                    "last_commit": "2026-08-14T09:12:23Z",
+                    "last_commit": "2026-08-15T07:16:33Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8583
+                    "stars": 8591
                   }
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-14T09:12:23Z",
+                "last_commit": "2026-08-15T07:16:33Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8583
+                "stars": 8591
               }
             },
             {
@@ -50,7 +50,7 @@
                   "repo_info": {
                     "archived": false,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-14T00:20:51Z",
+                    "last_commit": "2026-08-15T01:39:41Z",
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1214
@@ -60,7 +60,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T00:20:51Z",
+                "last_commit": "2026-08-15T01:39:41Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1214
@@ -82,7 +82,7 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28324
+                    "stars": 28325
                   }
                 }
               ]
@@ -197,7 +197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:16:28.770Z",
+    "last_updated": "2026-08-15T08:40:04.769Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
     "enhanced_repository": "enhansome/enhansome-ocap",
