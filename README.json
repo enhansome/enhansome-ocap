@@ -21,7 +21,7 @@
                   "repo_info": {
                     "archived": false,
                     "language": "C++",
-                    "last_commit": "2026-08-16T00:49:23Z",
+                    "last_commit": "2026-08-17T08:31:52Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
                     "stars": 8598
@@ -31,7 +31,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-16T00:49:23Z",
+                "last_commit": "2026-08-17T08:31:52Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
                 "stars": 8598
@@ -50,7 +50,7 @@
                   "repo_info": {
                     "archived": false,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-15T01:39:41Z",
+                    "last_commit": "2026-08-17T01:54:01Z",
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1215
@@ -60,7 +60,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T01:39:41Z",
+                "last_commit": "2026-08-17T01:54:01Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1215
@@ -82,7 +82,7 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28325
+                    "stars": 28328
                   }
                 }
               ]
@@ -197,7 +197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:41:03.082Z",
+    "last_updated": "2026-08-17T08:55:32.405Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
     "enhanced_repository": "enhansome/enhansome-ocap",
