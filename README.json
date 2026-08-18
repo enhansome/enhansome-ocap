@@ -21,20 +21,20 @@
                   "repo_info": {
                     "archived": false,
                     "language": "C++",
-                    "last_commit": "2026-08-17T08:31:52Z",
+                    "last_commit": "2026-08-18T03:52:05Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8598
+                    "stars": 8604
                   }
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-17T08:31:52Z",
+                "last_commit": "2026-08-18T03:52:05Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8598
+                "stars": 8604
               }
             },
             {
@@ -50,20 +50,20 @@
                   "repo_info": {
                     "archived": false,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-17T01:54:01Z",
+                    "last_commit": "2026-08-18T01:48:42Z",
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
-                    "stars": 1215
+                    "stars": 1216
                   }
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T01:54:01Z",
+                "last_commit": "2026-08-18T01:48:42Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
-                "stars": 1215
+                "stars": 1216
               }
             },
             {
@@ -82,7 +82,7 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28328
+                    "stars": 28330
                   }
                 }
               ]
@@ -110,7 +110,7 @@
                     "last_commit": "2026-08-05T19:53:18Z",
                     "owner": "Moddable-OpenSource",
                     "repo": "moddable",
-                    "stars": 1551
+                    "stars": 1552
                   }
                 }
               ],
@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-05T19:53:18Z",
                 "owner": "Moddable-OpenSource",
                 "repo": "moddable",
-                "stars": 1551
+                "stars": 1552
               }
             }
           ]
@@ -197,7 +197,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:55:32.405Z",
+    "last_updated": "2026-08-18T08:49:01.421Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
     "enhanced_repository": "enhansome/enhansome-ocap",
