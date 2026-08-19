@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -20,21 +20,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-18T03:52:05Z",
+                    "last_commit": "2026-08-19T08:24:10Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8604
+                    "stars": 8610
                   }
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-18T03:52:05Z",
+                "last_commit": "2026-08-19T08:24:10Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8604
+                "stars": 8610
               }
             },
             {
@@ -49,8 +51,9 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 162776776,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-18T01:48:42Z",
+                    "last_commit": "2026-08-18T21:52:42Z",
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1216
@@ -59,8 +62,9 @@
               ],
               "repo_info": {
                 "archived": false,
+                "id": 162776776,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T01:48:42Z",
+                "last_commit": "2026-08-18T21:52:42Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1216
@@ -78,11 +82,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 119162419,
                     "language": "TypeScript",
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28330
+                    "stars": 28331
                   }
                 }
               ]
@@ -106,6 +111,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 107216551,
                     "language": "C",
                     "last_commit": "2026-08-05T19:53:18Z",
                     "owner": "Moddable-OpenSource",
@@ -116,6 +122,7 @@
               ],
               "repo_info": {
                 "archived": false,
+                "id": 107216551,
                 "language": "C",
                 "last_commit": "2026-08-05T19:53:18Z",
                 "owner": "Moddable-OpenSource",
@@ -124,12 +131,163 @@
               }
             }
           ]
+        },
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "group",
+              "title": "capnproto-java",
+              "description": "Cap'n Proto implementation for Java",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2026-02-26: 1a0ac9d",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19668829,
+                    "language": "Java",
+                    "last_commit": "2026-02-01T16:17:12Z",
+                    "owner": "capnproto",
+                    "repo": "capnproto-java",
+                    "stars": 442
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "rust",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "capnproto/capnproto-rust: Cap'n Proto for Rust",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2022-11: Release capnpc-v0.15.0 · capnproto/capnproto-rust",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11180435,
+                    "language": "Rust",
+                    "last_commit": "2026-08-10T15:36:04Z",
+                    "owner": "capnproto",
+                    "repo": "capnproto-rust",
+                    "stars": 2494
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 11180435,
+                "language": "Rust",
+                "last_commit": "2026-08-10T15:36:04Z",
+                "owner": "capnproto",
+                "repo": "capnproto-rust",
+                "stars": 2494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cap-std",
+              "description": "Capability-oriented version of the Rust standard library",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2022-11: Release v1.0.0 · bytecodealliance/cap-std",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275013363,
+                    "language": "Rust",
+                    "last_commit": "2026-08-18T04:31:34Z",
+                    "owner": "bytecodealliance",
+                    "repo": "cap-std",
+                    "stars": 813
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 275013363,
+                "language": "Rust",
+                "last_commit": "2026-08-18T04:31:34Z",
+                "owner": "bytecodealliance",
+                "repo": "cap-std",
+                "stars": 813
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tenuo",
+              "description": "Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1109364259,
+                "language": "Rust",
+                "last_commit": "2026-08-19T00:42:00Z",
+                "owner": "tenuo-ai",
+                "repo": "tenuo",
+                "stars": 80
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "capnproto/go-capnproto2: Cap'n Proto library and code generator for Go",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2019-12: Release v2.18.0 · capnproto/go-capnproto2",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42817250,
+                    "language": "Go",
+                    "last_commit": "2026-07-27T12:24:45Z",
+                    "owner": "capnproto",
+                    "repo": "go-capnp",
+                    "stars": 1409
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 42817250,
+                "language": "Go",
+                "last_commit": "2026-07-27T12:24:45Z",
+                "owner": "capnproto",
+                "repo": "go-capnp",
+                "stars": 1409
+              }
+            }
+          ]
         }
       ],
       "title": "Libraries and Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -143,6 +301,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 93937270,
                 "language": "C++",
                 "last_commit": "2019-01-01T21:15:45Z",
                 "owner": "NuxiNL",
@@ -157,6 +316,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 93930427,
                 "language": "C++",
                 "last_commit": "2019-01-14T13:47:27Z",
                 "owner": "NuxiNL",
@@ -178,6 +338,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 19656584,
                 "language": "JavaScript",
                 "last_commit": "2020-10-27T16:49:01Z",
                 "owner": "marcsAtSkyhunter",
@@ -189,15 +350,10 @@
         }
       ],
       "title": "Articles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:49:01.421Z",
+    "last_updated": "2026-08-19T08:50:14.580Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
     "enhanced_repository": "enhansome/enhansome-ocap",
