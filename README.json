@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-19T08:24:10Z",
+                    "last_commit": "2026-08-19T12:29:17Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8610
+                    "stars": 8611
                   }
                 }
               ],
@@ -33,10 +33,10 @@
                 "archived": false,
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-19T08:24:10Z",
+                "last_commit": "2026-08-19T12:29:17Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8610
+                "stars": 8611
               }
             },
             {
@@ -53,7 +53,7 @@
                     "archived": false,
                     "id": 162776776,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-18T21:52:42Z",
+                    "last_commit": "2026-08-19T12:28:55Z",
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1216
@@ -64,7 +64,7 @@
                 "archived": false,
                 "id": 162776776,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T21:52:42Z",
+                "last_commit": "2026-08-19T12:28:55Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1216
@@ -87,7 +87,7 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28331
+                    "stars": 28332
                   }
                 }
               ]
@@ -353,8 +353,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:50:14.580Z",
+    "last_updated": "2026-08-19T12:43:00.787Z",
     "original_repository": "dckc/awesome-ocap",
+    "original_repository_id": 71009117,
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
     "enhanced_repository": "enhansome/enhansome-ocap",
     "enhanced_repository_description": null,
