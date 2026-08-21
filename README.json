@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-20T08:04:34Z",
+                    "last_commit": "2026-08-21T05:14:53Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8615
+                    "stars": 8618
                   }
                 }
               ],
@@ -33,10 +33,10 @@
                 "archived": false,
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-20T08:04:34Z",
+                "last_commit": "2026-08-21T05:14:53Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8615
+                "stars": 8618
               }
             },
             {
@@ -53,10 +53,10 @@
                     "archived": false,
                     "id": 162776776,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-19T14:15:30Z",
+                    "last_commit": "2026-08-20T22:58:00Z",
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
-                    "stars": 1216
+                    "stars": 1217
                   }
                 }
               ],
@@ -64,10 +64,10 @@
                 "archived": false,
                 "id": 162776776,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T14:15:30Z",
+                "last_commit": "2026-08-20T22:58:00Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
-                "stars": 1216
+                "stars": 1217
               }
             },
             {
@@ -87,7 +87,7 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28333
+                    "stars": 28332
                   }
                 }
               ]
@@ -183,7 +183,7 @@
                     "last_commit": "2026-08-10T15:36:04Z",
                     "owner": "capnproto",
                     "repo": "capnproto-rust",
-                    "stars": 2495
+                    "stars": 2496
                   }
                 }
               ],
@@ -194,7 +194,7 @@
                 "last_commit": "2026-08-10T15:36:04Z",
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
-                "stars": 2495
+                "stars": 2496
               }
             },
             {
@@ -211,7 +211,7 @@
                     "archived": false,
                     "id": 275013363,
                     "language": "Rust",
-                    "last_commit": "2026-08-18T04:31:34Z",
+                    "last_commit": "2026-08-20T15:13:19Z",
                     "owner": "bytecodealliance",
                     "repo": "cap-std",
                     "stars": 813
@@ -222,7 +222,7 @@
                 "archived": false,
                 "id": 275013363,
                 "language": "Rust",
-                "last_commit": "2026-08-18T04:31:34Z",
+                "last_commit": "2026-08-20T15:13:19Z",
                 "owner": "bytecodealliance",
                 "repo": "cap-std",
                 "stars": 813
@@ -240,7 +240,7 @@
                 "last_commit": "2026-08-19T00:42:00Z",
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
-                "stars": 81
+                "stars": 84
               }
             }
           ]
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T08:51:34.452Z",
+    "last_updated": "2026-08-21T08:52:53.497Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_id": 71009117,
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
