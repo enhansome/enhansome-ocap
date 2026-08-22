@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-21T05:14:53Z",
+                    "last_commit": "2026-08-22T02:25:09Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8618
+                    "stars": 8624
                   }
                 }
               ],
@@ -33,10 +33,10 @@
                 "archived": false,
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-21T05:14:53Z",
+                "last_commit": "2026-08-22T02:25:09Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8618
+                "stars": 8624
               }
             },
             {
@@ -87,7 +87,7 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28332
+                    "stars": 28336
                   }
                 }
               ]
@@ -183,7 +183,7 @@
                     "last_commit": "2026-08-10T15:36:04Z",
                     "owner": "capnproto",
                     "repo": "capnproto-rust",
-                    "stars": 2496
+                    "stars": 2497
                   }
                 }
               ],
@@ -194,7 +194,7 @@
                 "last_commit": "2026-08-10T15:36:04Z",
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
-                "stars": 2496
+                "stars": 2497
               }
             },
             {
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:52:53.497Z",
+    "last_updated": "2026-08-22T08:41:18.106Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_id": 71009117,
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
