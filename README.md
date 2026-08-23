@@ -91,8 +91,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,624 | 🐛 662 | 🌐 C++ | 📅 2026-08-22
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,624 | 🐛 662 | 🌐 C++ | 📅 2026-08-22
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,627 | 🐛 663 | 🌐 C++ | 📅 2026-08-23
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,627 | 🐛 663 | 🌐 C++ | 📅 2026-08-23
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
@@ -114,7 +114,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   * [The Syndicated Actor Model](https://git.syndicate-lang.org/syndicate-lang/syndicate-js)
 
   * [NextAuth.js](https://next-auth.js.org/) — authentication for Next.js, including an Email Provider that issues short-lived “magic link” URLs as bearer capabilities.
-    * 2024-02 — [Discussion: Email Provider magic links](https://github.com/nextauthjs/next-auth/discussions/10074) ⭐ 28,336 | 🐛 597 | 🌐 TypeScript | 📅 2026-07-22
+    * 2024-02 — [Discussion: Email Provider magic links](https://github.com/nextauthjs/next-auth/discussions/10074) ⭐ 28,338 | 🐛 597 | 🌐 TypeScript | 📅 2026-07-22
     * 2024-12 — [Next.js + NextAuth Email Magic Link Login (YouTube demo)](https://www.youtube.com/watch?v=75AVkg85aOQ)
     * 2023-06 — [Clerk blog: Secure authentication in Next.js with email magic links](https://clerk.com/blog/secure-authentication-nextjs-email-magic-links)
 
@@ -589,4 +589,4 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-22T02:25:09Z",
+                    "last_commit": "2026-08-23T00:49:08Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8624
+                    "stars": 8627
                   }
                 }
               ],
@@ -33,10 +33,10 @@
                 "archived": false,
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-22T02:25:09Z",
+                "last_commit": "2026-08-23T00:49:08Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8624
+                "stars": 8627
               }
             },
             {
@@ -87,7 +87,7 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28336
+                    "stars": 28338
                   }
                 }
               ]
@@ -353,7 +353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T08:41:18.106Z",
+    "last_updated": "2026-08-23T08:42:19.434Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_id": 71009117,
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
