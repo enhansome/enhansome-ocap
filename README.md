@@ -119,8 +119,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2023-06 — [Clerk blog: Secure authentication in Next.js with email magic links](https://clerk.com/blog/secure-authentication-nextjs-email-magic-links)
 
 * C / C++
-  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,552 | 🐛 85 | 🌐 C | 📅 2026-08-05 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
-    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,552 | 🐛 85 | 🌐 C | 📅 2026-08-05
+  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,552 | 🐛 86 | 🌐 C | 📅 2026-08-05 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
+    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,552 | 🐛 86 | 🌐 C | 📅 2026-08-05
   * [Cap’n Proto](https://capnproto.org/) is a high performance
     serialization and RPC protocol with distributed and persistent
     capabilities and promise pipelining. Bindings to python,
@@ -201,9 +201,9 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 * rust
   * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,497 | 🐛 98 | 🌐 Rust | 📅 2026-08-10
     * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,497 | 🐛 98 | 🌐 Rust | 📅 2026-08-10
-  * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 815 | 🐛 23 | 🌐 Rust | 📅 2026-08-20 Capability-oriented version of the Rust standard library
-    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 815 | 🐛 23 | 🌐 Rust | 📅 2026-08-20
-  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 85 | 🐛 13 | 🌐 Rust | 📅 2026-08-24 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
+  * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 816 | 🐛 23 | 🌐 Rust | 📅 2026-08-20 Capability-oriented version of the Rust standard library
+    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 816 | 🐛 23 | 🌐 Rust | 📅 2026-08-20
+  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 86 | 🐛 27 | 🌐 Rust | 📅 2026-08-24 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
     * 2025-12: [Capability Delegation for AI Agents](https://niyikiza.com/posts/capability-delegation/) - design rationale
     * 2025-12: [v0.1 released](https://niyikiza.com/posts/tenuo-launch/)
   * [Using Capabilities to Design Safer, More Expressive APIs](https://web.archive.org/web/20180903114550/https://zsck.co/writing/capability-based-apis.html)
@@ -299,6 +299,9 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 [1711]: https://genode.org/news/genode-os-framework-release-17.11
 
+* [KataOS](https://github.com/AmbiML/sparrow-manifest) ⚠️ Archived - embeded platform that runs on top of seL4
+  * 2022-10: [Announcing KataOS and Sparrow | Google Open Source Blog](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html) “As the foundation for this new operating system, we chose seL4 as the microkernel because it puts security front and center; it is mathematically proven secure, with guaranteed confidentiality, integrity, and availability.”
+
 * [Fuchsia](https://fuchsia.dev/fuchsia-src/get-started) is
   a real-time operating system in development by Google since
   Aug 2016. It's based on a
@@ -368,9 +371,6 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   system focused on security by compartmentalization, aiming to make
   isolated application environments easier to use and maintain.
   * 2025-11: [Documentation: Update support](https://spectrum-os.org/lists/archives/spectrum-devel/20251126-updates-v5-12-fd746748febd%40gmail.com/) – documents developer-enabled atomic OS updates built on `systemd-sysupdate`, showing ongoing work toward maintainable compartmentalized systems
-
-* [KataOS](https://github.com/AmbiML/sparrow-manifest) ⚠️ Archived - embeded platform that runs on top of seL4
-  * 2022-10: [Announcing KataOS and Sparrow | Google Open Source Blog](https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html) “As the foundation for this new operating system, we chose seL4 as the microkernel because it puts security front and center; it is mathematically proven secure, with guaranteed confidentiality, integrity, and availability.”
 
 [AEMSKH_14]: https://trustworthy.systems/publications/nicta_full_text/7371.pdf
 

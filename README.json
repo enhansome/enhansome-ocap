@@ -22,7 +22,7 @@
                     "archived": false,
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-24T08:47:37Z",
+                    "last_commit": "2026-08-24T13:32:18Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
                     "stars": 8634
@@ -33,7 +33,7 @@
                 "archived": false,
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:47:37Z",
+                "last_commit": "2026-08-24T13:32:18Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
                 "stars": 8634
@@ -214,7 +214,7 @@
                     "last_commit": "2026-08-20T15:13:19Z",
                     "owner": "bytecodealliance",
                     "repo": "cap-std",
-                    "stars": 815
+                    "stars": 816
                   }
                 }
               ],
@@ -225,7 +225,7 @@
                 "last_commit": "2026-08-20T15:13:19Z",
                 "owner": "bytecodealliance",
                 "repo": "cap-std",
-                "stars": 815
+                "stars": 816
               }
             },
             {
@@ -237,10 +237,10 @@
                 "archived": false,
                 "id": 1109364259,
                 "language": "Rust",
-                "last_commit": "2026-08-24T08:05:53Z",
+                "last_commit": "2026-08-24T09:16:50Z",
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
-                "stars": 85
+                "stars": 86
               }
             }
           ]
@@ -285,6 +285,55 @@
         }
       ],
       "title": "Libraries and Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Austral",
+          "description": "a systems language with linear types and capability security",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "2022-09: Release 0.1.0: Core language complete",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150195755,
+                "language": "OCaml",
+                "last_commit": "2025-07-28T23:44:49Z",
+                "owner": "austral",
+                "repo": "austral",
+                "stars": 1572
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Programming Languages"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KataOS",
+          "description": "embeded platform that runs on top of seL4",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 523443314,
+            "language": null,
+            "last_commit": "2023-07-07T14:48:02Z",
+            "owner": "AmbiML",
+            "repo": "sparrow-manifest",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Operating Systems"
     },
     {
       "description": null,
@@ -353,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:58:54.967Z",
+    "last_updated": "2026-08-24T14:25:34.353Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_id": 71009117,
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
