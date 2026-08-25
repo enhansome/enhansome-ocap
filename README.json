@@ -22,7 +22,7 @@
                     "archived": false,
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-25T03:44:55Z",
+                    "last_commit": "2026-08-25T08:44:44Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
                     "stars": 8636
@@ -33,7 +33,7 @@
                 "archived": false,
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:44:55Z",
+                "last_commit": "2026-08-25T08:44:44Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
                 "stars": 8636
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:17:53.511Z",
+    "last_updated": "2026-08-25T08:53:55.915Z",
     "original_repository": "dckc/awesome-ocap",
     "original_repository_id": 71009117,
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
