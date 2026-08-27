@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-26T08:49:18Z",
+                    "last_commit": "2026-08-27T11:10:21Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8641
+                    "stars": 8642
                   }
                 }
               ],
@@ -33,10 +33,10 @@
                 "archived": false,
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-26T08:49:18Z",
+                "last_commit": "2026-08-27T11:10:21Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8641
+                "stars": 8642
               }
             },
             {
@@ -53,7 +53,7 @@
                     "archived": false,
                     "id": 162776776,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T21:06:34Z",
+                    "last_commit": "2026-08-26T18:08:24Z",
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1217
@@ -64,7 +64,7 @@
                 "archived": false,
                 "id": 162776776,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T21:06:34Z",
+                "last_commit": "2026-08-26T18:08:24Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1217
@@ -240,7 +240,7 @@
                 "last_commit": "2026-08-24T19:23:22Z",
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
-                "stars": 87
+                "stars": 88
               }
             }
           ]
@@ -306,7 +306,7 @@
                 "last_commit": "2025-07-28T23:44:49Z",
                 "owner": "austral",
                 "repo": "austral",
-                "stars": 1572
+                "stars": 1573
               }
             }
           ]
@@ -402,9 +402,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:56:03.839Z",
-    "original_repository": "dckc/awesome-ocap",
-    "original_repository_id": 71009117,
+    "last_updated": "2026-08-27T11:56:38.441Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 71009117,
+      "language": "JavaScript",
+      "last_commit": "2026-08-12T19:38:02Z",
+      "owner": "dckc",
+      "repo": "awesome-ocap",
+      "stars": 414
+    },
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
     "enhanced_repository": "enhansome/enhansome-ocap",
     "enhanced_repository_description": null,
