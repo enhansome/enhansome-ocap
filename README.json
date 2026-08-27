@@ -22,10 +22,10 @@
                     "archived": false,
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-27T11:10:21Z",
+                    "last_commit": "2026-08-27T18:45:14Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8642
+                    "stars": 8644
                   }
                 }
               ],
@@ -33,10 +33,10 @@
                 "archived": false,
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:10:21Z",
+                "last_commit": "2026-08-27T18:45:14Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8642
+                "stars": 8644
               }
             },
             {
@@ -53,7 +53,7 @@
                     "archived": false,
                     "id": 162776776,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-26T18:08:24Z",
+                    "last_commit": "2026-08-27T14:10:28Z",
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1217
@@ -64,7 +64,7 @@
                 "archived": false,
                 "id": 162776776,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T18:08:24Z",
+                "last_commit": "2026-08-27T14:10:28Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1217
@@ -87,7 +87,7 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28344
+                    "stars": 28345
                   }
                 }
               ]
@@ -267,7 +267,7 @@
                     "last_commit": "2026-07-27T12:24:45Z",
                     "owner": "capnproto",
                     "repo": "go-capnp",
-                    "stars": 1409
+                    "stars": 1410
                   }
                 }
               ],
@@ -278,7 +278,7 @@
                 "last_commit": "2026-07-27T12:24:45Z",
                 "owner": "capnproto",
                 "repo": "go-capnp",
-                "stars": 1409
+                "stars": 1410
               }
             }
           ]
@@ -306,7 +306,7 @@
                 "last_commit": "2025-07-28T23:44:49Z",
                 "owner": "austral",
                 "repo": "austral",
-                "stars": 1573
+                "stars": 1572
               }
             }
           ]
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:38.441Z",
+    "last_updated": "2026-08-27T19:02:22.606Z",
     "original_repository_info": {
       "archived": false,
       "id": 71009117,
