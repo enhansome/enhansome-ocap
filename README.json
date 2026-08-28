@@ -22,22 +22,24 @@
                     "archived": false,
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-27T18:45:14Z",
+                    "last_commit": "2026-08-28T19:49:33Z",
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8644
-                  }
+                    "stars": 8648
+                  },
+                  "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-27T18:45:14Z",
+                "last_commit": "2026-08-28T19:49:33Z",
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8644
-              }
+                "stars": 8648
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             },
             {
               "node_type": "item",
@@ -53,22 +55,24 @@
                     "archived": false,
                     "id": 162776776,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-27T14:10:28Z",
+                    "last_commit": "2026-08-27T22:05:22Z",
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1217
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "id": 162776776,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T14:10:28Z",
+                "last_commit": "2026-08-27T22:05:22Z",
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1217
-              }
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             },
             {
               "node_type": "group",
@@ -87,8 +91,9 @@
                     "last_commit": "2026-07-22T19:42:19Z",
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28345
-                  }
+                    "stars": 28349
+                  },
+                  "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ]
             }
@@ -116,8 +121,9 @@
                     "last_commit": "2026-08-05T19:53:18Z",
                     "owner": "Moddable-OpenSource",
                     "repo": "moddable",
-                    "stars": 1551
-                  }
+                    "stars": 1552
+                  },
+                  "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
@@ -127,8 +133,9 @@
                 "last_commit": "2026-08-05T19:53:18Z",
                 "owner": "Moddable-OpenSource",
                 "repo": "moddable",
-                "stars": 1551
-              }
+                "stars": 1552
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             }
           ]
         },
@@ -155,7 +162,8 @@
                     "owner": "capnproto",
                     "repo": "capnproto-java",
                     "stars": 442
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ]
             }
@@ -184,7 +192,8 @@
                     "owner": "capnproto",
                     "repo": "capnproto-rust",
                     "stars": 2497
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
@@ -195,7 +204,8 @@
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
                 "stars": 2497
-              }
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             },
             {
               "node_type": "item",
@@ -214,8 +224,9 @@
                     "last_commit": "2026-08-20T15:13:19Z",
                     "owner": "bytecodealliance",
                     "repo": "cap-std",
-                    "stars": 816
-                  }
+                    "stars": 817
+                  },
+                  "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
@@ -225,8 +236,9 @@
                 "last_commit": "2026-08-20T15:13:19Z",
                 "owner": "bytecodealliance",
                 "repo": "cap-std",
-                "stars": 816
-              }
+                "stars": 817
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             },
             {
               "node_type": "item",
@@ -241,7 +253,8 @@
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             }
           ]
         },
@@ -268,7 +281,8 @@
                     "owner": "capnproto",
                     "repo": "go-capnp",
                     "stars": 1410
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
@@ -279,7 +293,8 @@
                 "owner": "capnproto",
                 "repo": "go-capnp",
                 "stars": 1410
-              }
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             }
           ]
         }
@@ -307,7 +322,8 @@
                 "owner": "austral",
                 "repo": "austral",
                 "stars": 1572
-              }
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             }
           ]
         }
@@ -330,7 +346,8 @@
             "owner": "AmbiML",
             "repo": "sparrow-manifest",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:10:18.481Z"
         }
       ],
       "title": "Operating Systems"
@@ -356,7 +373,8 @@
                 "owner": "NuxiNL",
                 "repo": "flower",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             },
             {
               "node_type": "item",
@@ -371,7 +389,8 @@
                 "owner": "NuxiNL",
                 "repo": "arpc",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             }
           ]
         },
@@ -393,7 +412,8 @@
                 "owner": "marcsAtSkyhunter",
                 "repo": "Capper",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:10:18.481Z"
             }
           ]
         }
@@ -402,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:02:22.606Z",
+    "last_updated": "2026-08-28T20:10:18.481Z",
     "original_repository_info": {
       "archived": false,
       "id": 71009117,
