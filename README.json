@@ -20,24 +20,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+                    "homepage": "https://blog.cloudflare.com/workerd-open-source-workers-runtime/",
                     "id": 537085161,
                     "language": "C++",
-                    "last_commit": "2026-08-28T19:49:33Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T04:06:30Z",
+                    "open_issues": 698,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8648
+                    "stars": 8649,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+                "homepage": "https://blog.cloudflare.com/workerd-open-source-workers-runtime/",
                 "id": 537085161,
                 "language": "C++",
-                "last_commit": "2026-08-28T19:49:33Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:06:30Z",
+                "open_issues": 698,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8648
+                "stars": 8649,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             },
@@ -53,24 +63,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "tools for sandboxing your dependency graph",
+                    "homepage": "https://lavamoat.github.io/",
                     "id": 162776776,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T22:05:22Z",
+                    "open_issues": 225,
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
-                    "stars": 1217
+                    "stars": 1217,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "tools for sandboxing your dependency graph",
+                "homepage": "https://lavamoat.github.io/",
                 "id": 162776776,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-27T22:05:22Z",
+                "open_issues": 225,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
-                "stars": 1217
+                "stars": 1217,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             },
@@ -86,12 +106,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Authentication for the Web.",
+                    "homepage": "https://authjs.dev",
                     "id": 119162419,
                     "language": "TypeScript",
+                    "license": "ISC",
                     "last_commit": "2026-07-22T19:42:19Z",
+                    "open_issues": 598,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28349
+                    "stars": 28350,
+                    "topics": [
+                      "auth",
+                      "authentication",
+                      "csrf",
+                      "jwt",
+                      "nextauth",
+                      "nextjs",
+                      "nodejs",
+                      "nuxt",
+                      "nuxt-auth",
+                      "oauth",
+                      "oauth2",
+                      "oidc",
+                      "react",
+                      "remix-auth",
+                      "solid-auth",
+                      "solidjs",
+                      "sveltekit",
+                      "web"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
                 }
@@ -116,24 +160,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.",
+                    "homepage": "http://www.moddable.com",
                     "id": 107216551,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2026-08-05T19:53:18Z",
+                    "open_issues": 85,
                     "owner": "Moddable-OpenSource",
                     "repo": "moddable",
-                    "stars": 1552
+                    "stars": 1552,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers.",
+                "homepage": "http://www.moddable.com",
                 "id": 107216551,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-05T19:53:18Z",
+                "open_issues": 85,
                 "owner": "Moddable-OpenSource",
                 "repo": "moddable",
-                "stars": 1552
+                "stars": 1552,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             }
@@ -156,12 +210,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cap'n Proto in pure Java",
+                    "homepage": null,
                     "id": 19668829,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-01T16:17:12Z",
+                    "open_issues": 42,
                     "owner": "capnproto",
                     "repo": "capnproto-java",
-                    "stars": 442
+                    "stars": 442,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
                 }
@@ -186,24 +245,34 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cap'n Proto for Rust",
+                    "homepage": null,
                     "id": 11180435,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-08-10T15:36:04Z",
+                    "open_issues": 99,
                     "owner": "capnproto",
                     "repo": "capnproto-rust",
-                    "stars": 2497
+                    "stars": 2498,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Cap'n Proto for Rust",
+                "homepage": null,
                 "id": 11180435,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-10T15:36:04Z",
+                "open_issues": 99,
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
-                "stars": 2497
+                "stars": 2498,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             },
@@ -219,24 +288,42 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Capability-oriented version of the Rust standard library",
+                    "homepage": null,
                     "id": 275013363,
                     "language": "Rust",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-20T15:13:19Z",
+                    "open_issues": 25,
                     "owner": "bytecodealliance",
                     "repo": "cap-std",
-                    "stars": 817
+                    "stars": 817,
+                    "topics": [
+                      "rust",
+                      "sandboxing",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Capability-oriented version of the Rust standard library",
+                "homepage": null,
                 "id": 275013363,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T15:13:19Z",
+                "open_issues": 25,
                 "owner": "bytecodealliance",
                 "repo": "cap-std",
-                "stars": 817
+                "stars": 817,
+                "topics": [
+                  "rust",
+                  "sandboxing",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             },
@@ -247,12 +334,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High-performance capability authorization engine for AI agents. Cryptographically attenuated warrants, task-scoped authority, verifiable offline. Rust core.",
+                "homepage": "https://tenuo.ai",
                 "id": 1109364259,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T19:23:22Z",
+                "open_issues": 27,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
-                "stars": 88
+                "stars": 88,
+                "topics": [
+                  "a2a",
+                  "agents",
+                  "ai-agents",
+                  "capabilities",
+                  "cryptography",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "mcp",
+                  "rust",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             }
@@ -275,24 +379,56 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cap'n Proto library and code generator for Go",
+                    "homepage": "https://capnproto.org",
                     "id": 42817250,
                     "language": "Go",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-27T12:24:45Z",
+                    "open_issues": 43,
                     "owner": "capnproto",
                     "repo": "go-capnp",
-                    "stars": 1410
+                    "stars": 1410,
+                    "topics": [
+                      "capabilities",
+                      "capability-based",
+                      "capn-proto",
+                      "capnp",
+                      "capnproto",
+                      "go",
+                      "golang",
+                      "object-capabilities",
+                      "rpc",
+                      "serialization"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Cap'n Proto library and code generator for Go",
+                "homepage": "https://capnproto.org",
                 "id": 42817250,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-27T12:24:45Z",
+                "open_issues": 43,
                 "owner": "capnproto",
                 "repo": "go-capnp",
-                "stars": 1410
+                "stars": 1410,
+                "topics": [
+                  "capabilities",
+                  "capability-based",
+                  "capn-proto",
+                  "capnp",
+                  "capnproto",
+                  "go",
+                  "golang",
+                  "object-capabilities",
+                  "rpc",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             }
@@ -316,12 +452,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Systems language with linear types and capability-based security.",
+                "homepage": "https://austral-lang.org/",
                 "id": 150195755,
                 "language": "OCaml",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-28T23:44:49Z",
+                "open_issues": 28,
                 "owner": "austral",
                 "repo": "austral",
-                "stars": 1572
+                "stars": 1572,
+                "topics": [
+                  "capabilities",
+                  "compiler",
+                  "linear-types"
+                ]
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             }
@@ -340,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Project Sparrow: Repo Materials",
+            "homepage": null,
             "id": 523443314,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-07-07T14:48:02Z",
+            "open_issues": 5,
             "owner": "AmbiML",
             "repo": "sparrow-manifest",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:10:18.481Z"
         }
@@ -367,12 +517,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Label-based networking daemon",
+                "homepage": null,
                 "id": 93937270,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-01-01T21:15:45Z",
+                "open_issues": 2,
                 "owner": "NuxiNL",
                 "repo": "flower",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "capabilities",
+                  "labels",
+                  "networking",
+                  "unix",
+                  "unix-socket"
+                ]
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             },
@@ -383,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GRPC-like RPC library that supports file descriptor passing by using Argdata",
+                "homepage": null,
                 "id": 93930427,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-01-14T13:47:27Z",
+                "open_issues": 1,
                 "owner": "NuxiNL",
                 "repo": "arpc",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             }
@@ -406,12 +572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web application server with built-in object capability security built on Node.js/Express",
+                "homepage": null,
                 "id": 19656584,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2020-10-27T16:49:01Z",
+                "open_issues": 9,
                 "owner": "marcsAtSkyhunter",
                 "repo": "Capper",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             }
@@ -422,15 +593,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:10:18.481Z",
+    "last_updated": "2026-08-29T04:46:23.722Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Object Capabilities and Capability Security",
+      "homepage": null,
       "id": 71009117,
       "language": "JavaScript",
+      "license": "Unlicense",
       "last_commit": "2026-08-12T19:38:02Z",
+      "open_issues": 41,
       "owner": "dckc",
       "repo": "awesome-ocap",
-      "stars": 414
+      "stars": 414,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "capabilities",
+        "capability-based",
+        "javascript",
+        "ocap",
+        "ocaps",
+        "security",
+        "web-security"
+      ]
     },
     "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
     "enhanced_repository": "enhansome/enhansome-ocap",

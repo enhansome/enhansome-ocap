@@ -91,8 +91,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,648 | 🐛 686 | 🌐 C++ | 📅 2026-08-28
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,648 | 🐛 686 | 🌐 C++ | 📅 2026-08-28
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,649 | 🐛 698 | 🌐 C++ | 📅 2026-08-29
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,649 | 🐛 698 | 🌐 C++ | 📅 2026-08-29
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
@@ -114,13 +114,13 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   * [The Syndicated Actor Model](https://git.syndicate-lang.org/syndicate-lang/syndicate-js)
 
   * [NextAuth.js](https://next-auth.js.org/) — authentication for Next.js, including an Email Provider that issues short-lived “magic link” URLs as bearer capabilities.
-    * 2024-02 — [Discussion: Email Provider magic links](https://github.com/nextauthjs/next-auth/discussions/10074) ⭐ 28,349 | 🐛 598 | 🌐 TypeScript | 📅 2026-07-22
+    * 2024-02 — [Discussion: Email Provider magic links](https://github.com/nextauthjs/next-auth/discussions/10074) ⭐ 28,350 | 🐛 598 | 🌐 TypeScript | 📅 2026-07-22
     * 2024-12 — [Next.js + NextAuth Email Magic Link Login (YouTube demo)](https://www.youtube.com/watch?v=75AVkg85aOQ)
     * 2023-06 — [Clerk blog: Secure authentication in Next.js with email magic links](https://clerk.com/blog/secure-authentication-nextjs-email-magic-links)
 
 * C / C++
-  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,552 | 🐛 88 | 🌐 C | 📅 2026-08-05 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
-    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,552 | 🐛 88 | 🌐 C | 📅 2026-08-05
+  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,552 | 🐛 85 | 🌐 C | 📅 2026-08-05 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
+    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,552 | 🐛 85 | 🌐 C | 📅 2026-08-05
   * [Cap’n Proto](https://capnproto.org/) is a high performance
     serialization and RPC protocol with distributed and persistent
     capabilities and promise pipelining. Bindings to python,
@@ -199,8 +199,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2026-02-26: [1a0ac9d](https://github.com/capnproto/capnproto-java/commit/1a0ac9d2e0e607ccae7ca83cb3aacce93b065dd7) ⭐ 442 | 🐛 42 | 🌐 Java | 📅 2026-02-01
     * 2014-10: [capnproto-java alpha release with benchmarks](https://dwrensha.github.io/capnproto-java/2014/10/13/alpha-release.html)
 * rust
-  * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,497 | 🐛 99 | 🌐 Rust | 📅 2026-08-10
-    * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,497 | 🐛 99 | 🌐 Rust | 📅 2026-08-10
+  * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,498 | 🐛 99 | 🌐 Rust | 📅 2026-08-10
+    * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,498 | 🐛 99 | 🌐 Rust | 📅 2026-08-10
   * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 817 | 🐛 25 | 🌐 Rust | 📅 2026-08-20 Capability-oriented version of the Rust standard library
     * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 817 | 🐛 25 | 🌐 Rust | 📅 2026-08-20
   * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 88 | 🐛 27 | 🌐 Rust | 📅 2026-08-24 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
@@ -589,4 +589,4 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
