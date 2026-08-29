@@ -26,10 +26,10 @@
                     "language": "C++",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-29T04:06:30Z",
-                    "open_issues": 698,
+                    "open_issues": 699,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8649,
+                    "stars": 8650,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -43,10 +43,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T04:06:30Z",
-                "open_issues": 698,
+                "open_issues": 699,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8649,
+                "stars": 8650,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:46:23.722Z",
+    "last_updated": "2026-08-29T13:48:30.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
