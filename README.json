@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T04:06:30Z",
+                    "last_commit": "2026-08-30T01:10:07Z",
                     "open_issues": 699,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8650,
+                    "stars": 8654,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T04:06:30Z",
+                "last_commit": "2026-08-30T01:10:07Z",
                 "open_issues": 699,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8650,
+                "stars": 8654,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -115,7 +115,7 @@
                     "open_issues": 598,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28350,
+                    "stars": 28354,
                     "topics": [
                       "auth",
                       "authentication",
@@ -219,7 +219,7 @@
                     "open_issues": 42,
                     "owner": "capnproto",
                     "repo": "capnproto-java",
-                    "stars": 442,
+                    "stars": 443,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -593,7 +593,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:48:30.083Z",
+    "last_updated": "2026-08-30T13:46:08.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
@@ -602,7 +602,7 @@
       "language": "JavaScript",
       "license": "Unlicense",
       "last_commit": "2026-08-12T19:38:02Z",
-      "open_issues": 41,
+      "open_issues": 42,
       "owner": "dckc",
       "repo": "awesome-ocap",
       "stars": 414,
