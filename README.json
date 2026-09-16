@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T13:26:09Z",
-                    "open_issues": 732,
+                    "last_commit": "2026-09-16T13:23:53Z",
+                    "open_issues": 716,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8739,
+                    "stars": 8741,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T13:26:09Z",
-                "open_issues": 732,
+                "last_commit": "2026-09-16T13:23:53Z",
+                "open_issues": 716,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8739,
+                "stars": 8741,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -72,7 +72,7 @@
                     "open_issues": 225,
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
-                    "stars": 1220,
+                    "stars": 1221,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -89,7 +89,7 @@
                 "open_issues": 225,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
-                "stars": 1220,
+                "stars": 1221,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -115,7 +115,7 @@
                     "open_issues": 604,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28365,
+                    "stars": 28364,
                     "topics": [
                       "auth",
                       "authentication",
@@ -343,7 +343,7 @@
                 "open_issues": 93,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
-                "stars": 91,
+                "stars": 92,
                 "topics": [
                   "a2a",
                   "access-control",
@@ -470,7 +470,7 @@
                 "open_issues": 28,
                 "owner": "austral",
                 "repo": "austral",
-                "stars": 1577,
+                "stars": 1578,
                 "topics": [
                   "capabilities",
                   "compiler",
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T13:27:09.281Z",
+    "last_updated": "2026-09-16T13:25:58.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
