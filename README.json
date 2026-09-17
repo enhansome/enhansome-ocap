@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T13:23:53Z",
-                    "open_issues": 716,
+                    "last_commit": "2026-09-17T13:16:14Z",
+                    "open_issues": 719,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8741,
+                    "stars": 8746,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T13:23:53Z",
-                "open_issues": 716,
+                "last_commit": "2026-09-17T13:16:14Z",
+                "open_issues": 719,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8741,
+                "stars": 8746,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -68,8 +68,8 @@
                     "id": 162776776,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-15T12:07:52Z",
-                    "open_issues": 225,
+                    "last_commit": "2026-09-17T12:50:52Z",
+                    "open_issues": 227,
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1221,
@@ -85,8 +85,8 @@
                 "id": 162776776,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-15T12:07:52Z",
-                "open_issues": 225,
+                "last_commit": "2026-09-17T12:50:52Z",
+                "open_issues": 227,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1221,
@@ -115,7 +115,7 @@
                     "open_issues": 604,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28364,
+                    "stars": 28365,
                     "topics": [
                       "auth",
                       "authentication",
@@ -254,7 +254,7 @@
                     "open_issues": 100,
                     "owner": "capnproto",
                     "repo": "capnproto-rust",
-                    "stars": 2502,
+                    "stars": 2503,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -271,59 +271,8 @@
                 "open_issues": 100,
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
-                "stars": 2502,
+                "stars": 2503,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T20:10:18.481Z"
-            },
-            {
-              "node_type": "item",
-              "title": "cap-std",
-              "description": "Capability-oriented version of the Rust standard library",
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "2022-11: Release v1.0.0 · bytecodealliance/cap-std",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Capability-oriented version of the Rust standard library",
-                    "homepage": null,
-                    "id": 275013363,
-                    "language": "Rust",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-08-20T15:13:19Z",
-                    "open_issues": 26,
-                    "owner": "bytecodealliance",
-                    "repo": "cap-std",
-                    "stars": 821,
-                    "topics": [
-                      "rust",
-                      "sandboxing",
-                      "security"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T20:10:18.481Z"
-                }
-              ],
-              "repo_info": {
-                "archived": false,
-                "description": "Capability-oriented version of the Rust standard library",
-                "homepage": null,
-                "id": 275013363,
-                "language": "Rust",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-20T15:13:19Z",
-                "open_issues": 26,
-                "owner": "bytecodealliance",
-                "repo": "cap-std",
-                "stars": 821,
-                "topics": [
-                  "rust",
-                  "sandboxing",
-                  "security"
-                ]
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
             },
@@ -368,6 +317,53 @@
                 ]
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
+            },
+            {
+              "node_type": "item",
+              "title": "cap-std",
+              "description": "Capability-oriented version of the Rust standard library",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "2022-11: Release v1.0.0 · bytecodealliance/cap-std",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Capability-oriented version of the Rust standard library",
+                    "homepage": null,
+                    "id": 275013363,
+                    "language": "Rust",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-20T15:13:19Z",
+                    "open_issues": 27,
+                    "owner": "bytecodealliance",
+                    "repo": "cap-std",
+                    "stars": 821,
+                    "topics": [
+                      "rust",
+                      "sandboxing",
+                      "security"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:10:18.481Z"
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "description": "Capability-oriented version of the Rust standard library",
+                "homepage": null,
+                "id": 1373642774,
+                "language": null,
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-20T15:13:19Z",
+                "open_issues": 0,
+                "owner": "sunfishcode",
+                "repo": "cap-std",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-17T13:22:32.321Z"
             }
           ]
         },
@@ -470,7 +466,7 @@
                 "open_issues": 28,
                 "owner": "austral",
                 "repo": "austral",
-                "stars": 1578,
+                "stars": 1577,
                 "topics": [
                   "capabilities",
                   "compiler",
@@ -602,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T13:25:58.183Z",
+    "last_updated": "2026-09-17T13:22:32.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
