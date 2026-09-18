@@ -91,13 +91,13 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,746 | 🐛 719 | 🌐 C++ | 📅 2026-09-17
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,746 | 🐛 719 | 🌐 C++ | 📅 2026-09-17
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,747 | 🐛 726 | 🌐 C++ | 📅 2026-09-18
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,747 | 🐛 726 | 🌐 C++ | 📅 2026-09-18
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
-  * [LavaMoat/LavaMoat: tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat) ⭐ 1,221 | 🐛 227 | 🌐 JavaScript | 📅 2026-09-17
-    * 2024-12: [Release lavamoat: v9.0.5](https://github.com/LavaMoat/LavaMoat/releases/tag/lavamoat-v9.0.5) ⭐ 1,221 | 🐛 227 | 🌐 JavaScript | 📅 2026-09-17
+  * [LavaMoat/LavaMoat: tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat) ⭐ 1,222 | 🐛 227 | 🌐 JavaScript | 📅 2026-09-18
+    * 2024-12: [Release lavamoat: v9.0.5](https://github.com/LavaMoat/LavaMoat/releases/tag/lavamoat-v9.0.5) ⭐ 1,222 | 🐛 227 | 🌐 JavaScript | 📅 2026-09-18
     * 2022-11: [The Attacker is Inside: Javascript Supplychain Security and LavaMoat](https://www.youtube.com/watch?v=Z5Bz0DYga1k\&t=14s) by kumavis at Ethereum Devcon Bogota
     * 2021-01: [Speakeasy JS – Lavamoat: Securing your dependency graph (Kumavis)](https://www.youtube.com/watch?v=iaqe6F4S2tA)
 
@@ -199,13 +199,13 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2026-02-26: [1a0ac9d](https://github.com/capnproto/capnproto-java/commit/1a0ac9d2e0e607ccae7ca83cb3aacce93b065dd7) ⭐ 443 | 🐛 42 | 🌐 Java | 📅 2026-02-01
     * 2014-10: [capnproto-java alpha release with benchmarks](https://dwrensha.github.io/capnproto-java/2014/10/13/alpha-release.html)
 * rust
-  * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,503 | 🐛 100 | 🌐 Rust | 📅 2026-09-08
-    * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,503 | 🐛 100 | 🌐 Rust | 📅 2026-09-08
-  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 92 | 🐛 93 | 🌐 Rust | 📅 2026-09-15 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
+  * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,504 | 🐛 100 | 🌐 Rust | 📅 2026-09-08
+    * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,504 | 🐛 100 | 🌐 Rust | 📅 2026-09-08
+  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 92 | 🐛 97 | 🌐 Rust | 📅 2026-09-18 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
     * 2025-12: [Capability Delegation for AI Agents](https://niyikiza.com/posts/capability-delegation/) - design rationale
     * 2025-12: [v0.1 released](https://niyikiza.com/posts/tenuo-launch/)
   * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 0 | 🐛 0 | 📅 2026-08-20 Capability-oriented version of the Rust standard library
-    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 821 | 🐛 27 | 🌐 Rust | 📅 2026-08-20
+    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 821 | 🐛 28 | 🌐 Rust | 📅 2026-08-20
   * [Using Capabilities to Design Safer, More Expressive APIs](https://web.archive.org/web/20180903114550/https://zsck.co/writing/capability-based-apis.html)
     Zack Mullaly Jan 19, 2018
   * [The Syndicated Actor Model](https://git.syndicate-lang.org/syndicate-lang/syndicate-rs)
@@ -589,4 +589,4 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
