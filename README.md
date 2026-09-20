@@ -12,7 +12,7 @@
 />
 
 Capability-based security enables the concise composition of powerful
-[patterns of cooperation without vulnerability](https://github.com/dckc/awesome-ocap/wiki) ⭐ 414 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-12.
+[patterns of cooperation without vulnerability](https://github.com/dckc/awesome-ocap/wiki) ⭐ 414 | 🐛 43 | 🌐 JavaScript | 📅 2026-09-20.
 
 * Tech you can use
   * [Applications and Services](#app-svc)
@@ -91,8 +91,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,749 | 🐛 731 | 🌐 C++ | 📅 2026-09-19
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,749 | 🐛 731 | 🌐 C++ | 📅 2026-09-19
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,751 | 🐛 733 | 🌐 C++ | 📅 2026-09-20
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,751 | 🐛 733 | 🌐 C++ | 📅 2026-09-20
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
@@ -119,8 +119,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2023-06 — [Clerk blog: Secure authentication in Next.js with email magic links](https://clerk.com/blog/secure-authentication-nextjs-email-magic-links)
 
 * C / C++
-  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,554 | 🐛 70 | 🌐 C | 📅 2026-09-05 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
-    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,554 | 🐛 70 | 🌐 C | 📅 2026-09-05
+  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,554 | 🐛 75 | 🌐 C | 📅 2026-09-05 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
+    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,554 | 🐛 75 | 🌐 C | 📅 2026-09-05
   * [Cap’n Proto](https://capnproto.org/) is a high performance
     serialization and RPC protocol with distributed and persistent
     capabilities and promise pipelining. Bindings to python,
@@ -201,7 +201,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 * rust
   * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,504 | 🐛 100 | 🌐 Rust | 📅 2026-09-08
     * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,504 | 🐛 100 | 🌐 Rust | 📅 2026-09-08
-  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 92 | 🐛 97 | 🌐 Rust | 📅 2026-09-18 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
+  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 92 | 🐛 97 | 🌐 Rust | 📅 2026-09-20 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
     * 2025-12: [Capability Delegation for AI Agents](https://niyikiza.com/posts/capability-delegation/) - design rationale
     * 2025-12: [v0.1 released](https://niyikiza.com/posts/tenuo-launch/)
   * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 0 | 🐛 0 | 📅 2026-08-20 Capability-oriented version of the Rust standard library
@@ -243,7 +243,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     OOPSLA 2013
 
 * [Austral](https://austral-lang.org/) - a systems language with linear types and capability security
-  * 2022-09: [Release 0.1.0: Core language complete](https://github.com/austral/austral/releases/tag/v0.1.0) ⭐ 1,577 | 🐛 28 | 🌐 OCaml | 📅 2025-07-28
+  * 2022-09: [Release 0.1.0: Core language complete](https://github.com/austral/austral/releases/tag/v0.1.0) ⭐ 1,578 | 🐛 28 | 🌐 OCaml | 📅 2025-07-28
 
 * [Newspeak](https://newspeaklanguage.org/) is an object-capability programming platform that lets you develop code in your web browser. Like Self, Newspeak is message-based; all names are dynamically bound. However, like Smalltalk, Newspeak uses classes rather than prototypes.
   The current version of Newspeak runs on top of WASM.
@@ -589,4 +589,4 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
