@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T13:23:27Z",
-                    "open_issues": 736,
+                    "last_commit": "2026-09-26T05:41:13Z",
+                    "open_issues": 738,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8768,
+                    "stars": 8770,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T13:23:27Z",
-                "open_issues": 736,
+                "last_commit": "2026-09-26T05:41:13Z",
+                "open_issues": 738,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8768,
+                "stars": 8770,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -297,7 +297,7 @@
                     "open_issues": 29,
                     "owner": "sunfishcode",
                     "repo": "cap-std",
-                    "stars": 822,
+                    "stars": 823,
                     "topics": [
                       "rust",
                       "sandboxing",
@@ -318,7 +318,7 @@
                 "open_issues": 29,
                 "owner": "sunfishcode",
                 "repo": "cap-std",
-                "stars": 822,
+                "stars": 823,
                 "topics": [
                   "rust",
                   "sandboxing",
@@ -338,9 +338,9 @@
                 "homepage": "https://tenuo.ai",
                 "id": 1109364259,
                 "language": "Rust",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-24T20:36:21Z",
-                "open_issues": 105,
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-26T03:58:55Z",
+                "open_issues": 93,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
                 "stars": 95,
@@ -602,15 +602,15 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T13:38:25.704Z",
+    "last_updated": "2026-09-26T12:59:28.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
       "homepage": null,
       "id": 71009117,
-      "language": "JavaScript",
+      "language": "Python",
       "license": "Unlicense",
-      "last_commit": "2026-09-20T03:03:48Z",
+      "last_commit": "2026-09-26T03:55:43Z",
       "open_issues": 43,
       "owner": "dckc",
       "repo": "awesome-ocap",
@@ -627,7 +627,7 @@
         "web-security"
       ]
     },
-    "original_repository_sha": "bbba86af7c7646dcff573f175b56b0b6fa62f639",
+    "original_repository_sha": "ebe1972108b1223915aa279309ebcb49d09bc509",
     "enhanced_repository": "enhansome/enhansome-ocap",
     "enhanced_repository_description": null,
     "title": "Awesome Object Capabilities and Capability-based Security with stars"

@@ -12,7 +12,7 @@
 />
 
 Capability-based security enables the concise composition of powerful
-[patterns of cooperation without vulnerability](https://github.com/dckc/awesome-ocap/wiki) ⭐ 414 | 🐛 43 | 🌐 JavaScript | 📅 2026-09-20.
+[patterns of cooperation without vulnerability](https://github.com/dckc/awesome-ocap/wiki) ⭐ 414 | 🐛 43 | 🌐 Python | 📅 2026-09-26.
 
 * Tech you can use
   * [Applications and Services](#app-svc)
@@ -91,8 +91,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,768 | 🐛 736 | 🌐 C++ | 📅 2026-09-25
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,768 | 🐛 736 | 🌐 C++ | 📅 2026-09-25
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,770 | 🐛 738 | 🌐 C++ | 📅 2026-09-26
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,770 | 🐛 738 | 🌐 C++ | 📅 2026-09-26
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
@@ -201,9 +201,9 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 * rust
   * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,512 | 🐛 100 | 🌐 Rust | 📅 2026-09-08
     * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,512 | 🐛 100 | 🌐 Rust | 📅 2026-09-08
-  * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 822 | 🐛 29 | 🌐 Rust | 📅 2026-08-20 Capability-oriented version of the Rust standard library
-    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 822 | 🐛 29 | 🌐 Rust | 📅 2026-08-20
-  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 95 | 🐛 105 | 🌐 Rust | 📅 2026-09-24 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
+  * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 823 | 🐛 29 | 🌐 Rust | 📅 2026-08-20 Capability-oriented version of the Rust standard library
+    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 823 | 🐛 29 | 🌐 Rust | 📅 2026-08-20
+  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 95 | 🐛 93 | 🌐 Rust | 📅 2026-09-26 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
     * 2025-12: [Capability Delegation for AI Agents](https://niyikiza.com/posts/capability-delegation/) - design rationale
     * 2025-12: [v0.1 released](https://niyikiza.com/posts/tenuo-launch/)
   * [Using Capabilities to Design Safer, More Expressive APIs](https://web.archive.org/web/20180903114550/https://zsck.co/writing/capability-based-apis.html)
@@ -589,4 +589,4 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
