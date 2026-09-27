@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-26T05:41:13Z",
-                    "open_issues": 738,
+                    "last_commit": "2026-09-27T02:07:29Z",
+                    "open_issues": 750,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8770,
+                    "stars": 8777,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T05:41:13Z",
-                "open_issues": 738,
+                "last_commit": "2026-09-27T02:07:29Z",
+                "open_issues": 750,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8770,
+                "stars": 8777,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -112,10 +112,10 @@
                     "language": "TypeScript",
                     "license": "ISC",
                     "last_commit": "2026-07-22T19:42:19Z",
-                    "open_issues": 604,
+                    "open_issues": 603,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28373,
+                    "stars": 28374,
                     "topics": [
                       "auth",
                       "authentication",
@@ -254,7 +254,7 @@
                     "open_issues": 100,
                     "owner": "capnproto",
                     "repo": "capnproto-rust",
-                    "stars": 2512,
+                    "stars": 2513,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -271,7 +271,7 @@
                 "open_issues": 100,
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
-                "stars": 2512,
+                "stars": 2513,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -339,8 +339,8 @@
                 "id": 1109364259,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T03:58:55Z",
-                "open_issues": 93,
+                "last_commit": "2026-09-27T02:09:07Z",
+                "open_issues": 92,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
                 "stars": 95,
@@ -590,7 +590,7 @@
                 "open_issues": 9,
                 "owner": "marcsAtSkyhunter",
                 "repo": "Capper",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T12:59:28.561Z",
+    "last_updated": "2026-09-27T13:51:21.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
