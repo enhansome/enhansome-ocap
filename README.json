@@ -11,12 +11,12 @@
             {
               "node_type": "item",
               "title": "cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers",
-              "description": null,
+              "description": "cloudflare/workerd",
               "children": [
                 {
                   "node_type": "item",
                   "title": "2025-01: Release v1.20250108.0 · cloudflare/workerd",
-                  "description": null,
+                  "description": "cloudflare/workerd",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T14:37:21Z",
-                    "open_issues": 761,
+                    "last_commit": "2026-10-03T01:10:37Z",
+                    "open_issues": 760,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8801,
+                    "stars": 8803,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:37:21Z",
-                "open_issues": 761,
+                "last_commit": "2026-10-03T01:10:37Z",
+                "open_issues": 760,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8801,
+                "stars": 8803,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -54,12 +54,12 @@
             {
               "node_type": "item",
               "title": "LavaMoat/LavaMoat: tools for sandboxing your dependency graph",
-              "description": null,
+              "description": "LavaMoat/LavaMoat",
               "children": [
                 {
                   "node_type": "item",
                   "title": "2024-12: Release lavamoat: v9.0.5",
-                  "description": null,
+                  "description": "LavaMoat/LavaMoat",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -69,7 +69,7 @@
                     "language": "JavaScript",
                     "license": "MIT",
                     "last_commit": "2026-10-02T01:41:57Z",
-                    "open_issues": 224,
+                    "open_issues": 225,
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1236,
@@ -86,7 +86,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T01:41:57Z",
-                "open_issues": 224,
+                "open_issues": 225,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1236,
@@ -102,7 +102,7 @@
                 {
                   "node_type": "item",
                   "title": "2024-02 — Discussion: Email Provider magic links",
-                  "description": null,
+                  "description": "nextauthjs/next-auth",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -112,10 +112,10 @@
                     "language": "TypeScript",
                     "license": "ISC",
                     "last_commit": "2026-07-22T19:42:19Z",
-                    "open_issues": 602,
+                    "open_issues": 601,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28371,
+                    "stars": 28369,
                     "topics": [
                       "auth",
                       "authentication",
@@ -156,7 +156,7 @@
                 {
                   "node_type": "item",
                   "title": "2024-12: Release Moddable SDK 5.3.3",
-                  "description": null,
+                  "description": "Moddable-OpenSource/moddable",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -206,7 +206,7 @@
                 {
                   "node_type": "item",
                   "title": "2026-02-26: 1a0ac9d",
-                  "description": null,
+                  "description": "capnproto/capnproto-java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -236,12 +236,12 @@
             {
               "node_type": "item",
               "title": "capnproto/capnproto-rust: Cap'n Proto for Rust",
-              "description": null,
+              "description": "capnproto/capnproto-rust",
               "children": [
                 {
                   "node_type": "item",
                   "title": "2022-11: Release capnpc-v0.15.0 · capnproto/capnproto-rust",
-                  "description": null,
+                  "description": "capnproto/capnproto-rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -284,7 +284,7 @@
                 {
                   "node_type": "item",
                   "title": "2022-11: Release v1.0.0 · bytecodealliance/cap-std",
-                  "description": null,
+                  "description": "sunfishcode/cap-std",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -339,11 +339,11 @@
                 "id": 1109364259,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T08:29:56Z",
-                "open_issues": 117,
+                "last_commit": "2026-10-03T03:40:51Z",
+                "open_issues": 106,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
-                "stars": 98,
+                "stars": 99,
                 "topics": [
                   "a2a",
                   "access-control",
@@ -379,12 +379,12 @@
             {
               "node_type": "item",
               "title": "capnproto/go-capnproto2: Cap'n Proto library and code generator for Go",
-              "description": null,
+              "description": "capnproto/go-capnp",
               "children": [
                 {
                   "node_type": "item",
                   "title": "2019-12: Release v2.18.0 · capnproto/go-capnproto2",
-                  "description": null,
+                  "description": "capnproto/go-capnp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -457,7 +457,7 @@
             {
               "node_type": "item",
               "title": "2022-09: Release 0.1.0: Core language complete",
-              "description": null,
+              "description": "austral/austral",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -470,7 +470,7 @@
                 "open_issues": 28,
                 "owner": "austral",
                 "repo": "austral",
-                "stars": 1583,
+                "stars": 1584,
                 "topics": [
                   "capabilities",
                   "compiler",
@@ -522,7 +522,7 @@
             {
               "node_type": "item",
               "title": "Flower: A Label-Based Network Backplane",
-              "description": null,
+              "description": "NuxiNL/flower",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -549,7 +549,7 @@
             {
               "node_type": "item",
               "title": "ARPC: GRPC-Like RPC Library That Supports File Descriptor Passing",
-              "description": null,
+              "description": "NuxiNL/arpc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:42:03.521Z",
+    "last_updated": "2026-10-03T05:03:02.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
