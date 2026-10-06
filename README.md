@@ -61,7 +61,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   * 2024-01: [Sandstorm now belongs to Sandstorm.org](https://sandstorm.io/news/2024-01-14-move-to-sandstorm-org)
   * 2023-10: [Sandstorm, Tempest, and the Future](https://sandstorm.org/news/2023-10-23-sandstorm-tempest-and-the-future)
   * 2020-02-22: [Announcing the release of vagrant-spk 1.0](https://sandstorm.io/news/2020-02-22-announcing-vagrant-spk-1.0)
-  * 2017-03-02: [connecting to external HTTP APIs via the Powerbox](https://github.com/sandstorm-io/sandstorm/pull/2870) ⭐ 7,075 | 🐛 640 | 🌐 JavaScript | 📅 2026-09-27
+  * 2017-03-02: [connecting to external HTTP APIs via the Powerbox](https://github.com/sandstorm-io/sandstorm/pull/2870) ⭐ 7,076 | 🐛 640 | 🌐 JavaScript | 📅 2026-09-27
     and related powerbox enhancements\
     v0.200 (2017-01-28), v0.203
   * 2015-02-06: [One click to try an open source web application][1502]
@@ -91,8 +91,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,813 | 🐛 763 | 🌐 C++ | 📅 2026-10-06
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,813 | 🐛 763 | 🌐 C++ | 📅 2026-10-06
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 8,813 | 🐛 770 | 🌐 C++ | 📅 2026-10-06
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 8,813 | 🐛 770 | 🌐 C++ | 📅 2026-10-06
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
@@ -114,7 +114,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   * [The Syndicated Actor Model](https://git.syndicate-lang.org/syndicate-lang/syndicate-js)
 
   * [NextAuth.js](https://next-auth.js.org/) — authentication for Next.js, including an Email Provider that issues short-lived “magic link” URLs as bearer capabilities.
-    * 2024-02 — [Discussion: Email Provider magic links](https://github.com/nextauthjs/next-auth/discussions/10074) ⭐ 28,370 | 🐛 601 | 🌐 TypeScript | 📅 2026-07-22
+    * 2024-02 — [Discussion: Email Provider magic links](https://github.com/nextauthjs/next-auth/discussions/10074) ⭐ 28,371 | 🐛 601 | 🌐 TypeScript | 📅 2026-07-22
     * 2024-12 — [Next.js + NextAuth Email Magic Link Login (YouTube demo)](https://www.youtube.com/watch?v=75AVkg85aOQ)
     * 2023-06 — [Clerk blog: Secure authentication in Next.js with email magic links](https://clerk.com/blog/secure-authentication-nextjs-email-magic-links)
 
