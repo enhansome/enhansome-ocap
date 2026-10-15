@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T13:36:24Z",
+                    "last_commit": "2026-10-15T13:14:16Z",
                     "open_issues": 780,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 8958,
+                    "stars": 8977,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T13:36:24Z",
+                "last_commit": "2026-10-15T13:14:16Z",
                 "open_issues": 780,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 8958,
+                "stars": 8977,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -68,7 +68,7 @@
                     "id": 162776776,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T23:07:53Z",
+                    "last_commit": "2026-10-15T12:36:27Z",
                     "open_issues": 224,
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
@@ -85,7 +85,7 @@
                 "id": 162776776,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T23:07:53Z",
+                "last_commit": "2026-10-15T12:36:27Z",
                 "open_issues": 224,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
@@ -115,7 +115,7 @@
                     "open_issues": 603,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28363,
+                    "stars": 28365,
                     "topics": [
                       "auth",
                       "authentication",
@@ -297,7 +297,7 @@
                     "open_issues": 31,
                     "owner": "sunfishcode",
                     "repo": "cap-std",
-                    "stars": 829,
+                    "stars": 830,
                     "topics": [
                       "rust",
                       "sandboxing",
@@ -318,7 +318,7 @@
                 "open_issues": 31,
                 "owner": "sunfishcode",
                 "repo": "cap-std",
-                "stars": 829,
+                "stars": 830,
                 "topics": [
                   "rust",
                   "sandboxing",
@@ -339,8 +339,8 @@
                 "id": 1109364259,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T17:08:53Z",
-                "open_issues": 186,
+                "last_commit": "2026-10-15T02:10:55Z",
+                "open_issues": 213,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
                 "stars": 103,
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:36:53.739Z",
+    "last_updated": "2026-10-15T13:19:53.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
