@@ -91,13 +91,13 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 9,079 | 🐛 829 | 🌐 C++ | 📅 2026-10-27
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 9,079 | 🐛 829 | 🌐 C++ | 📅 2026-10-27
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 9,089 | 🐛 838 | 🌐 C++ | 📅 2026-10-28
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 9,089 | 🐛 838 | 🌐 C++ | 📅 2026-10-28
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
-  * [LavaMoat/LavaMoat: tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat) ⭐ 1,241 | 🐛 226 | 🌐 JavaScript | 📅 2026-10-27
-    * 2024-12: [Release lavamoat: v9.0.5](https://github.com/LavaMoat/LavaMoat/releases/tag/lavamoat-v9.0.5) ⭐ 1,241 | 🐛 226 | 🌐 JavaScript | 📅 2026-10-27
+  * [LavaMoat/LavaMoat: tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat) ⭐ 1,242 | 🐛 226 | 🌐 JavaScript | 📅 2026-10-28
+    * 2024-12: [Release lavamoat: v9.0.5](https://github.com/LavaMoat/LavaMoat/releases/tag/lavamoat-v9.0.5) ⭐ 1,242 | 🐛 226 | 🌐 JavaScript | 📅 2026-10-28
     * 2022-11: [The Attacker is Inside: Javascript Supplychain Security and LavaMoat](https://www.youtube.com/watch?v=Z5Bz0DYga1k\&t=14s) by kumavis at Ethereum Devcon Bogota
     * 2021-01: [Speakeasy JS – Lavamoat: Securing your dependency graph (Kumavis)](https://www.youtube.com/watch?v=iaqe6F4S2tA)
 
@@ -119,8 +119,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2023-06 — [Clerk blog: Secure authentication in Next.js with email magic links](https://clerk.com/blog/secure-authentication-nextjs-email-magic-links)
 
 * C / C++
-  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,569 | 🐛 104 | 🌐 C | 📅 2026-10-16 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
-    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,569 | 🐛 104 | 🌐 C | 📅 2026-10-16
+  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,569 | 🐛 80 | 🌐 C | 📅 2026-10-16 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
+    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,569 | 🐛 80 | 🌐 C | 📅 2026-10-16
   * [Cap’n Proto](https://capnproto.org/) is a high performance
     serialization and RPC protocol with distributed and persistent
     capabilities and promise pipelining. Bindings to python,
@@ -201,9 +201,9 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 * rust
   * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,519 | 🐛 100 | 🌐 Rust | 📅 2026-10-27
     * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,519 | 🐛 100 | 🌐 Rust | 📅 2026-10-27
-  * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 834 | 🐛 31 | 🌐 Rust | 📅 2026-10-19 Capability-oriented version of the Rust standard library
-    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 834 | 🐛 31 | 🌐 Rust | 📅 2026-10-19
-  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 102 | 🐛 219 | 🌐 Rust | 📅 2026-10-27 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
+  * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 835 | 🐛 31 | 🌐 Rust | 📅 2026-10-19 Capability-oriented version of the Rust standard library
+    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 835 | 🐛 31 | 🌐 Rust | 📅 2026-10-19
+  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 103 | 🐛 207 | 🌐 Rust | 📅 2026-10-28 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
     * 2025-12: [Capability Delegation for AI Agents](https://niyikiza.com/posts/capability-delegation/) - design rationale
     * 2025-12: [v0.1 released](https://niyikiza.com/posts/tenuo-launch/)
   * [Using Capabilities to Design Safer, More Expressive APIs](https://web.archive.org/web/20180903114550/https://zsck.co/writing/capability-based-apis.html)
@@ -492,7 +492,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   *The ACL model is unable to make correct access decisions for interactions involving more than two  principals, since required information is not retained across message sends. Though this deficiency has long been documented in the published literature, it is not widely understood. This logic error in the ACL model is exploited by both the clickjacking and Cross-Site Request Forgery attacks that affect many Web applications*
 
 * 2002-06 [DarpaBrowser: Final Report](http://www.combex.com/papers/darpa-report/html/index.html) by Marc Stiegler and Mark Miller\
-  *The broad goal of this research was to assess whether capability-based security \[Levy84] could achieve security goals that are unachievable with current traditional security technologies such as access control lists and firewalls. The specific goal of this research was to create an HTML browser that could use capability confinement on a collection of plug-replaceable, possibly malicious, rendering engines. In confining the renderer, the browser would ensure that a malicious renderer could do no harm either to the browser or to the underlying system.*
+  *The broad goal of this research was to assess whether capability-based security \[[Levy84](https://homes.cs.washington.edu/~levy/capabook/)] could achieve security goals that are unachievable with current traditional security technologies such as access control lists and firewalls. The specific goal of this research was to create an HTML browser that could use capability confinement on a collection of plug-replaceable, possibly malicious, rendering engines. In confining the renderer, the browser would ensure that a malicious renderer could do no harm either to the browser or to the underlying system.*
 
 <a name="lit"></a>
 
@@ -575,6 +575,9 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   > automatically implemented as a cryptographic protocol coordinating five
   > mutually suspicious parties
 
+* 1984 [Capability-Based Computer Systems](https://homes.cs.washington.edu/~levy/capabook/) Henry M. Levy
+  *focuses on computer programs and their capabilities. The text first elaborates capability- and object-based system concepts, including capability-based systems, object-based approach, and summary. The book then describes early descriptor architectures and explains the Burroughs B5000, Rice University Computer, and Basic Language Machine. The text also focuses on early capability architectures. Dennis and Van Horn's Supervisor; CAL-TSS System; MIT PDP-1 Timesharing System; and Chicago Magic Number Machine are discussed.*
+
 [237]: https://www.ponylang.io/media/papers/opsla237-clebsch.pdf
 
 [40673]: http://research.google.com/pubs/pub40673.html
@@ -589,4 +592,4 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
