@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-31T13:06:29Z",
-                    "open_issues": 828,
+                    "last_commit": "2026-11-01T14:11:03Z",
+                    "open_issues": 832,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 9109,
+                    "stars": 9111,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T13:06:29Z",
-                "open_issues": 828,
+                "last_commit": "2026-11-01T14:11:03Z",
+                "open_issues": 832,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 9109,
+                "stars": 9111,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -297,7 +297,7 @@
                     "open_issues": 31,
                     "owner": "sunfishcode",
                     "repo": "cap-std",
-                    "stars": 838,
+                    "stars": 839,
                     "topics": [
                       "rust",
                       "sandboxing",
@@ -318,7 +318,7 @@
                 "open_issues": 31,
                 "owner": "sunfishcode",
                 "repo": "cap-std",
-                "stars": 838,
+                "stars": 839,
                 "topics": [
                   "rust",
                   "sandboxing",
@@ -339,8 +339,8 @@
                 "id": 1109364259,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T03:31:09Z",
-                "open_issues": 204,
+                "last_commit": "2026-10-31T17:06:10Z",
+                "open_issues": 203,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
                 "stars": 104,
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:28:32.645Z",
+    "last_updated": "2026-11-01T14:58:23.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
