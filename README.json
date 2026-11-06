@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-05T16:22:48Z",
-                    "open_issues": 855,
+                    "last_commit": "2026-11-06T15:51:43Z",
+                    "open_issues": 863,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 9131,
+                    "stars": 9133,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T16:22:48Z",
-                "open_issues": 855,
+                "last_commit": "2026-11-06T15:51:43Z",
+                "open_issues": 863,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 9131,
+                "stars": 9133,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -68,11 +68,11 @@
                     "id": 162776776,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-05T14:09:57Z",
-                    "open_issues": 223,
+                    "last_commit": "2026-11-06T05:04:46Z",
+                    "open_issues": 221,
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
-                    "stars": 1242,
+                    "stars": 1243,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -85,11 +85,11 @@
                 "id": 162776776,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-05T14:09:57Z",
-                "open_issues": 223,
+                "last_commit": "2026-11-06T05:04:46Z",
+                "open_issues": 221,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
-                "stars": 1242,
+                "stars": 1243,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -166,7 +166,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-11-04T23:11:25Z",
-                    "open_issues": 95,
+                    "open_issues": 97,
                     "owner": "Moddable-OpenSource",
                     "repo": "moddable",
                     "stars": 1569,
@@ -183,7 +183,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-11-04T23:11:25Z",
-                "open_issues": 95,
+                "open_issues": 97,
                 "owner": "Moddable-OpenSource",
                 "repo": "moddable",
                 "stars": 1569,
@@ -339,8 +339,8 @@
                 "id": 1109364259,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T17:03:51Z",
-                "open_issues": 228,
+                "last_commit": "2026-11-05T18:24:29Z",
+                "open_issues": 229,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
                 "stars": 105,
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T16:23:51.887Z",
+    "last_updated": "2026-11-06T15:52:06.266Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",

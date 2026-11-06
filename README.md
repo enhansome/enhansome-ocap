@@ -61,7 +61,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   * 2024-01: [Sandstorm now belongs to Sandstorm.org](https://sandstorm.io/news/2024-01-14-move-to-sandstorm-org)
   * 2023-10: [Sandstorm, Tempest, and the Future](https://sandstorm.org/news/2023-10-23-sandstorm-tempest-and-the-future)
   * 2020-02-22: [Announcing the release of vagrant-spk 1.0](https://sandstorm.io/news/2020-02-22-announcing-vagrant-spk-1.0)
-  * 2017-03-02: [connecting to external HTTP APIs via the Powerbox](https://github.com/sandstorm-io/sandstorm/pull/2870) ⭐ 7,080 | 🐛 644 | 🌐 JavaScript | 📅 2026-11-01
+  * 2017-03-02: [connecting to external HTTP APIs via the Powerbox](https://github.com/sandstorm-io/sandstorm/pull/2870) ⭐ 7,080 | 🐛 645 | 🌐 JavaScript | 📅 2026-11-01
     and related powerbox enhancements\
     v0.200 (2017-01-28), v0.203
   * 2015-02-06: [One click to try an open source web application][1502]
@@ -91,13 +91,13 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 9,131 | 🐛 855 | 🌐 C++ | 📅 2026-11-05
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 9,131 | 🐛 855 | 🌐 C++ | 📅 2026-11-05
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 9,133 | 🐛 863 | 🌐 C++ | 📅 2026-11-06
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 9,133 | 🐛 863 | 🌐 C++ | 📅 2026-11-06
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
-  * [LavaMoat/LavaMoat: tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat) ⭐ 1,242 | 🐛 223 | 🌐 JavaScript | 📅 2026-11-05
-    * 2024-12: [Release lavamoat: v9.0.5](https://github.com/LavaMoat/LavaMoat/releases/tag/lavamoat-v9.0.5) ⭐ 1,242 | 🐛 223 | 🌐 JavaScript | 📅 2026-11-05
+  * [LavaMoat/LavaMoat: tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat) ⭐ 1,243 | 🐛 221 | 🌐 JavaScript | 📅 2026-11-06
+    * 2024-12: [Release lavamoat: v9.0.5](https://github.com/LavaMoat/LavaMoat/releases/tag/lavamoat-v9.0.5) ⭐ 1,243 | 🐛 221 | 🌐 JavaScript | 📅 2026-11-06
     * 2022-11: [The Attacker is Inside: Javascript Supplychain Security and LavaMoat](https://www.youtube.com/watch?v=Z5Bz0DYga1k\&t=14s) by kumavis at Ethereum Devcon Bogota
     * 2021-01: [Speakeasy JS – Lavamoat: Securing your dependency graph (Kumavis)](https://www.youtube.com/watch?v=iaqe6F4S2tA)
 
@@ -119,8 +119,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2023-06 — [Clerk blog: Secure authentication in Next.js with email magic links](https://clerk.com/blog/secure-authentication-nextjs-email-magic-links)
 
 * C / C++
-  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,569 | 🐛 95 | 🌐 C | 📅 2026-11-04 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
-    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,569 | 🐛 95 | 🌐 C | 📅 2026-11-04
+  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,569 | 🐛 97 | 🌐 C | 📅 2026-11-04 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
+    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,569 | 🐛 97 | 🌐 C | 📅 2026-11-04
   * [Cap’n Proto](https://capnproto.org/) is a high performance
     serialization and RPC protocol with distributed and persistent
     capabilities and promise pipelining. Bindings to python,
@@ -203,7 +203,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,521 | 🐛 102 | 🌐 Rust | 📅 2026-11-02
   * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 839 | 🐛 31 | 🌐 Rust | 📅 2026-10-19 Capability-oriented version of the Rust standard library
     * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 839 | 🐛 31 | 🌐 Rust | 📅 2026-10-19
-  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 105 | 🐛 228 | 🌐 Rust | 📅 2026-11-04 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
+  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 105 | 🐛 229 | 🌐 Rust | 📅 2026-11-05 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
     * 2025-12: [Capability Delegation for AI Agents](https://niyikiza.com/posts/capability-delegation/) - design rationale
     * 2025-12: [v0.1 released](https://niyikiza.com/posts/tenuo-launch/)
   * [Using Capabilities to Design Safer, More Expressive APIs](https://web.archive.org/web/20180903114550/https://zsck.co/writing/capability-based-apis.html)
@@ -592,4 +592,4 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
