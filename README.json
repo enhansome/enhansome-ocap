@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-09T18:39:59Z",
-                    "open_issues": 882,
+                    "last_commit": "2026-11-10T16:09:04Z",
+                    "open_issues": 888,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 9151,
+                    "stars": 9156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T18:39:59Z",
-                "open_issues": 882,
+                "last_commit": "2026-11-10T16:09:04Z",
+                "open_issues": 888,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 9151,
+                "stars": 9156,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -68,8 +68,8 @@
                     "id": 162776776,
                     "language": "JavaScript",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T14:54:05Z",
-                    "open_issues": 224,
+                    "last_commit": "2026-11-10T10:00:50Z",
+                    "open_issues": 225,
                     "owner": "LavaMoat",
                     "repo": "LavaMoat",
                     "stars": 1245,
@@ -85,8 +85,8 @@
                 "id": 162776776,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-09T14:54:05Z",
-                "open_issues": 224,
+                "last_commit": "2026-11-10T10:00:50Z",
+                "open_issues": 225,
                 "owner": "LavaMoat",
                 "repo": "LavaMoat",
                 "stars": 1245,
@@ -115,7 +115,7 @@
                     "open_issues": 605,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28374,
+                    "stars": 28377,
                     "topics": [
                       "auth",
                       "authentication",
@@ -219,7 +219,7 @@
                     "open_issues": 42,
                     "owner": "capnproto",
                     "repo": "capnproto-java",
-                    "stars": 444,
+                    "stars": 445,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -250,11 +250,11 @@
                     "id": 11180435,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T14:37:42Z",
+                    "last_commit": "2026-11-10T01:22:21Z",
                     "open_issues": 102,
                     "owner": "capnproto",
                     "repo": "capnproto-rust",
-                    "stars": 2520,
+                    "stars": 2521,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -267,11 +267,11 @@
                 "id": 11180435,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-09T14:37:42Z",
+                "last_commit": "2026-11-10T01:22:21Z",
                 "open_issues": 102,
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
-                "stars": 2520,
+                "stars": 2521,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -297,7 +297,7 @@
                     "open_issues": 31,
                     "owner": "sunfishcode",
                     "repo": "cap-std",
-                    "stars": 840,
+                    "stars": 841,
                     "topics": [
                       "rust",
                       "sandboxing",
@@ -318,7 +318,7 @@
                 "open_issues": 31,
                 "owner": "sunfishcode",
                 "repo": "cap-std",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "rust",
                   "sandboxing",
@@ -339,8 +339,8 @@
                 "id": 1109364259,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T10:03:25Z",
-                "open_issues": 219,
+                "last_commit": "2026-11-10T10:09:10Z",
+                "open_issues": 221,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
                 "stars": 106,
@@ -397,7 +397,7 @@
                     "open_issues": 45,
                     "owner": "capnproto",
                     "repo": "go-capnp",
-                    "stars": 1415,
+                    "stars": 1416,
                     "topics": [
                       "capabilities",
                       "capability-based",
@@ -425,7 +425,7 @@
                 "open_issues": 45,
                 "owner": "capnproto",
                 "repo": "go-capnp",
-                "stars": 1415,
+                "stars": 1416,
                 "topics": [
                   "capabilities",
                   "capability-based",
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T18:41:12.331Z",
+    "last_updated": "2026-11-10T16:21:57.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
@@ -614,7 +614,7 @@
       "open_issues": 42,
       "owner": "dckc",
       "repo": "awesome-ocap",
-      "stars": 414,
+      "stars": 415,
       "topics": [
         "awesome",
         "awesome-list",
