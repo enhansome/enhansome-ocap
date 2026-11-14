@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T15:54:25Z",
-                    "open_issues": 897,
+                    "last_commit": "2026-11-14T07:32:48Z",
+                    "open_issues": 905,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 9193,
+                    "stars": 9189,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T15:54:25Z",
-                "open_issues": 897,
+                "last_commit": "2026-11-14T07:32:48Z",
+                "open_issues": 905,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 9193,
+                "stars": 9189,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -112,10 +112,10 @@
                     "language": "TypeScript",
                     "license": "ISC",
                     "last_commit": "2026-07-22T19:42:19Z",
-                    "open_issues": 604,
+                    "open_issues": 605,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28379,
+                    "stars": 28378,
                     "topics": [
                       "auth",
                       "authentication",
@@ -169,7 +169,7 @@
                     "open_issues": 92,
                     "owner": "Moddable-OpenSource",
                     "repo": "moddable",
-                    "stars": 1572,
+                    "stars": 1573,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -186,7 +186,7 @@
                 "open_issues": 92,
                 "owner": "Moddable-OpenSource",
                 "repo": "moddable",
-                "stars": 1572,
+                "stars": 1573,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -250,8 +250,8 @@
                     "id": 11180435,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-12T23:06:13Z",
-                    "open_issues": 102,
+                    "last_commit": "2026-11-13T19:35:45Z",
+                    "open_issues": 104,
                     "owner": "capnproto",
                     "repo": "capnproto-rust",
                     "stars": 2522,
@@ -267,8 +267,8 @@
                 "id": 11180435,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-12T23:06:13Z",
-                "open_issues": 102,
+                "last_commit": "2026-11-13T19:35:45Z",
+                "open_issues": 104,
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
                 "stars": 2522,
@@ -343,7 +343,7 @@
                 "open_issues": 214,
                 "owner": "tenuo-ai",
                 "repo": "tenuo",
-                "stars": 106,
+                "stars": 107,
                 "topics": [
                   "a2a",
                   "access-control",
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:09:08.652Z",
+    "last_updated": "2026-11-14T14:57:58.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
