@@ -25,11 +25,11 @@
                     "id": 537085161,
                     "language": "C++",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-14T07:32:48Z",
-                    "open_issues": 905,
+                    "last_commit": "2026-11-15T07:20:02Z",
+                    "open_issues": 907,
                     "owner": "cloudflare",
                     "repo": "workerd",
-                    "stars": 9189,
+                    "stars": 9193,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -42,11 +42,11 @@
                 "id": 537085161,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T07:32:48Z",
-                "open_issues": 905,
+                "last_commit": "2026-11-15T07:20:02Z",
+                "open_issues": 907,
                 "owner": "cloudflare",
                 "repo": "workerd",
-                "stars": 9189,
+                "stars": 9193,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -112,10 +112,10 @@
                     "language": "TypeScript",
                     "license": "ISC",
                     "last_commit": "2026-07-22T19:42:19Z",
-                    "open_issues": 605,
+                    "open_issues": 607,
                     "owner": "nextauthjs",
                     "repo": "next-auth",
-                    "stars": 28378,
+                    "stars": 28377,
                     "topics": [
                       "auth",
                       "authentication",
@@ -166,7 +166,7 @@
                     "language": "C",
                     "license": null,
                     "last_commit": "2026-11-13T05:26:48Z",
-                    "open_issues": 92,
+                    "open_issues": 95,
                     "owner": "Moddable-OpenSource",
                     "repo": "moddable",
                     "stars": 1573,
@@ -183,7 +183,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-11-13T05:26:48Z",
-                "open_issues": 92,
+                "open_issues": 95,
                 "owner": "Moddable-OpenSource",
                 "repo": "moddable",
                 "stars": 1573,
@@ -250,11 +250,11 @@
                     "id": 11180435,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-13T19:35:45Z",
-                    "open_issues": 104,
+                    "last_commit": "2026-11-15T15:17:58Z",
+                    "open_issues": 101,
                     "owner": "capnproto",
                     "repo": "capnproto-rust",
-                    "stars": 2522,
+                    "stars": 2523,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:10:18.481Z"
@@ -267,11 +267,11 @@
                 "id": 11180435,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-11-13T19:35:45Z",
-                "open_issues": 104,
+                "last_commit": "2026-11-15T15:17:58Z",
+                "open_issues": 101,
                 "owner": "capnproto",
                 "repo": "capnproto-rust",
-                "stars": 2522,
+                "stars": 2523,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:10:18.481Z"
@@ -470,7 +470,7 @@
                 "open_issues": 28,
                 "owner": "austral",
                 "repo": "austral",
-                "stars": 1601,
+                "stars": 1602,
                 "topics": [
                   "capabilities",
                   "compiler",
@@ -510,6 +510,52 @@
         }
       ],
       "title": "Operating Systems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "2026-04: Containing AI Agents: The Endo Familiar Demo",
+          "description": "\"Kris Kowal demos a prototype agent host on Endo / HardenedJS: the agent starts with only an instruction primer and gains authority only by being handed references, such as a single directory mount it can attenuate to read-only\"",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "endojs/endo",
+              "description": "endojs/endo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Endo is a distributed secure JavaScript sandbox, based on SES",
+                "homepage": "https://endojs.org/",
+                "id": 220080707,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-29T03:59:17Z",
+                "open_issues": 541,
+                "owner": "endojs",
+                "repo": "endo",
+                "stars": 1076,
+                "topics": [
+                  "capabilities",
+                  "captp",
+                  "hardened",
+                  "javascript",
+                  "multi-tenant",
+                  "ocaps",
+                  "powerbox",
+                  "prototype-pollution",
+                  "sandbox",
+                  "security",
+                  "supply-chain"
+                ]
+              },
+              "first_seen": "2026-11-15T15:35:40.041Z"
+            }
+          ]
+        }
+      ],
+      "title": "Presentations, Talks, Slides, and Videos"
     },
     {
       "description": null,
@@ -602,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:57:58.969Z",
+    "last_updated": "2026-11-15T15:35:40.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Object Capabilities and Capability Security",
@@ -610,7 +656,7 @@
       "id": 71009117,
       "language": "Python",
       "license": "Unlicense",
-      "last_commit": "2026-10-27T20:46:49Z",
+      "last_commit": "2026-11-15T06:29:46Z",
       "open_issues": 42,
       "owner": "dckc",
       "repo": "awesome-ocap",
@@ -627,7 +673,7 @@
         "web-security"
       ]
     },
-    "original_repository_sha": "3bf2371aa032aa1ef70a5db832cd7dd09641be09",
+    "original_repository_sha": "5d6559b0da753ec2aa112c8cafb40cf47fb16077",
     "enhanced_repository": "enhansome/enhansome-ocap",
     "enhanced_repository_description": null,
     "title": "Awesome Object Capabilities and Capability-based Security with stars"
