@@ -91,8 +91,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 9,213 | 🐛 923 | 🌐 C++ | 📅 2026-11-17
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 9,213 | 🐛 923 | 🌐 C++ | 📅 2026-11-17
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 9,216 | 🐛 923 | 🌐 C++ | 📅 2026-11-18
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 9,216 | 🐛 923 | 🌐 C++ | 📅 2026-11-18
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
@@ -114,13 +114,13 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   * [The Syndicated Actor Model](https://git.syndicate-lang.org/syndicate-lang/syndicate-js)
 
   * [NextAuth.js](https://next-auth.js.org/) — authentication for Next.js, including an Email Provider that issues short-lived “magic link” URLs as bearer capabilities.
-    * 2024-02 — [Discussion: Email Provider magic links](https://github.com/nextauthjs/next-auth/discussions/10074) ⭐ 28,382 | 🐛 611 | 🌐 TypeScript | 📅 2026-07-22
+    * 2024-02 — [Discussion: Email Provider magic links](https://github.com/nextauthjs/next-auth/discussions/10074) ⭐ 28,387 | 🐛 611 | 🌐 TypeScript | 📅 2026-07-22
     * 2024-12 — [Next.js + NextAuth Email Magic Link Login (YouTube demo)](https://www.youtube.com/watch?v=75AVkg85aOQ)
     * 2023-06 — [Clerk blog: Secure authentication in Next.js with email magic links](https://clerk.com/blog/secure-authentication-nextjs-email-magic-links)
 
 * C / C++
-  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,573 | 🐛 97 | 🌐 C | 📅 2026-11-13 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
-    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,573 | 🐛 97 | 🌐 C | 📅 2026-11-13
+  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,574 | 🐛 96 | 🌐 C | 📅 2026-11-13 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
+    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,574 | 🐛 96 | 🌐 C | 📅 2026-11-13
   * [Cap’n Proto](https://capnproto.org/) is a high performance
     serialization and RPC protocol with distributed and persistent
     capabilities and promise pipelining. Bindings to python,
@@ -203,15 +203,15 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,523 | 🐛 101 | 🌐 Rust | 📅 2026-11-16
   * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 843 | 🐛 32 | 🌐 Rust | 📅 2026-10-19 Capability-oriented version of the Rust standard library
     * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 843 | 🐛 32 | 🌐 Rust | 📅 2026-10-19
-  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 108 | 🐛 217 | 🌐 Rust | 📅 2026-11-17 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
+  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 108 | 🐛 213 | 🌐 Rust | 📅 2026-11-17 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
     * 2025-12: [Capability Delegation for AI Agents](https://niyikiza.com/posts/capability-delegation/) - design rationale
     * 2025-12: [v0.1 released](https://niyikiza.com/posts/tenuo-launch/)
   * [Using Capabilities to Design Safer, More Expressive APIs](https://web.archive.org/web/20180903114550/https://zsck.co/writing/capability-based-apis.html)
     Zack Mullaly Jan 19, 2018
   * [The Syndicated Actor Model](https://git.syndicate-lang.org/syndicate-lang/syndicate-rs)
 * go
-  * [capnproto/go-capnproto2: Cap'n Proto library and code generator for Go](https://github.com/capnproto/go-capnproto2) ⭐ 1,416 | 🐛 45 | 🌐 Go | 📅 2026-07-27
-    * 2019-12: [Release v2.18.0 · capnproto/go-capnproto2](https://github.com/capnproto/go-capnproto2/releases/tag/v2.18.0) ⭐ 1,416 | 🐛 45 | 🌐 Go | 📅 2026-07-27
+  * [capnproto/go-capnproto2: Cap'n Proto library and code generator for Go](https://github.com/capnproto/go-capnproto2) ⭐ 1,417 | 🐛 45 | 🌐 Go | 📅 2026-07-27
+    * 2019-12: [Release v2.18.0 · capnproto/go-capnproto2](https://github.com/capnproto/go-capnproto2/releases/tag/v2.18.0) ⭐ 1,417 | 🐛 45 | 🌐 Go | 📅 2026-07-27
 * python
   * [Flask-Security-Too](https://flask-security-too.readthedocs.io/) — security extension for Flask with token-based password reset and email confirmation using time-limited, signed URLs.
 
@@ -243,7 +243,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     OOPSLA 2013
 
 * [Austral](https://austral-lang.org/) - a systems language with linear types and capability security
-  * 2022-09: [Release 0.1.0: Core language complete](https://github.com/austral/austral/releases/tag/v0.1.0) ⭐ 1,603 | 🐛 28 | 🌐 OCaml | 📅 2025-07-28
+  * 2022-09: [Release 0.1.0: Core language complete](https://github.com/austral/austral/releases/tag/v0.1.0) ⭐ 1,604 | 🐛 28 | 🌐 OCaml | 📅 2025-07-28
 
 * [Newspeak](https://newspeaklanguage.org/) is an object-capability programming platform that lets you develop code in your web browser. Like Self, Newspeak is message-based; all names are dynamically bound. However, like Smalltalk, Newspeak uses classes rather than prototypes.
   The current version of Newspeak runs on top of WASM.
@@ -595,4 +595,4 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
