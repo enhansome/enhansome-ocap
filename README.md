@@ -61,7 +61,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
   * 2024-01: [Sandstorm now belongs to Sandstorm.org](https://sandstorm.io/news/2024-01-14-move-to-sandstorm-org)
   * 2023-10: [Sandstorm, Tempest, and the Future](https://sandstorm.org/news/2023-10-23-sandstorm-tempest-and-the-future)
   * 2020-02-22: [Announcing the release of vagrant-spk 1.0](https://sandstorm.io/news/2020-02-22-announcing-vagrant-spk-1.0)
-  * 2017-03-02: [connecting to external HTTP APIs via the Powerbox](https://github.com/sandstorm-io/sandstorm/pull/2870) ⭐ 7,082 | 🐛 646 | 🌐 JavaScript | 📅 2026-11-19
+  * 2017-03-02: [connecting to external HTTP APIs via the Powerbox](https://github.com/sandstorm-io/sandstorm/pull/2870) ⭐ 7,081 | 🐛 646 | 🌐 JavaScript | 📅 2026-11-19
     and related powerbox enhancements\
     v0.200 (2017-01-28), v0.203
   * 2015-02-06: [One click to try an open source web application][1502]
@@ -91,13 +91,13 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Libraries and Frameworks
 
 * JavaScript
-  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 9,218 | 🐛 928 | 🌐 C++ | 📅 2026-11-19
-    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 9,218 | 🐛 928 | 🌐 C++ | 📅 2026-11-19
+  * [cloudflare/workerd: The JavaScript / Wasm runtime that powers Cloudflare Workers](https://github.com/cloudflare/workerd) ⭐ 9,225 | 🐛 951 | 🌐 C++ | 📅 2026-11-20
+    * 2025-01: [Release v1.20250108.0 · cloudflare/workerd](https://github.com/cloudflare/workerd/releases/tag/v1.20250108.0) ⭐ 9,225 | 🐛 951 | 🌐 C++ | 📅 2026-11-20
     * 2025-09: [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
     * 2022-09: [Introducing workerd: the Open Source Workers runtime](https://blog.cloudflare.com/workerd-open-source-workers-runtime/)
 
-  * [LavaMoat/LavaMoat: tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat) ⭐ 1,249 | 🐛 225 | 🌐 JavaScript | 📅 2026-11-18
-    * 2024-12: [Release lavamoat: v9.0.5](https://github.com/LavaMoat/LavaMoat/releases/tag/lavamoat-v9.0.5) ⭐ 1,249 | 🐛 225 | 🌐 JavaScript | 📅 2026-11-18
+  * [LavaMoat/LavaMoat: tools for sandboxing your dependency graph](https://github.com/LavaMoat/LavaMoat) ⭐ 1,249 | 🐛 225 | 🌐 JavaScript | 📅 2026-11-20
+    * 2024-12: [Release lavamoat: v9.0.5](https://github.com/LavaMoat/LavaMoat/releases/tag/lavamoat-v9.0.5) ⭐ 1,249 | 🐛 225 | 🌐 JavaScript | 📅 2026-11-20
     * 2022-11: [The Attacker is Inside: Javascript Supplychain Security and LavaMoat](https://www.youtube.com/watch?v=Z5Bz0DYga1k\&t=14s) by kumavis at Ethereum Devcon Bogota
     * 2021-01: [Speakeasy JS – Lavamoat: Securing your dependency graph (Kumavis)](https://www.youtube.com/watch?v=iaqe6F4S2tA)
 
@@ -119,8 +119,8 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2023-06 — [Clerk blog: Secure authentication in Next.js with email magic links](https://clerk.com/blog/secure-authentication-nextjs-email-magic-links)
 
 * C / C++
-  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,574 | 🐛 97 | 🌐 C | 📅 2026-11-13 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
-    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,574 | 🐛 97 | 🌐 C | 📅 2026-11-13
+  * [Moddable SDK](https://github.com/Moddable-OpenSource/moddable) ⭐ 1,573 | 🐛 97 | 🌐 C | 📅 2026-11-13 - "Tools for developers to create truly open IoT products using standard JavaScript on low cost microcontrollers."
+    * 2024-12: [Release Moddable SDK 5.3.3](https://github.com/Moddable-OpenSource/moddable/releases/tag/5.3.3) ⭐ 1,573 | 🐛 97 | 🌐 C | 📅 2026-11-13
   * [Cap’n Proto](https://capnproto.org/) is a high performance
     serialization and RPC protocol with distributed and persistent
     capabilities and promise pipelining. Bindings to python,
@@ -196,22 +196,22 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     * 2018-09-22 [Presentation at Scaladays](https://slideslive.com/38908776/security-with-scala-refined-types-and-object-capabilities?subdomain=false)
 * Java
   * [capnproto-java](https://dwrensha.github.io/capnproto-java) - Cap'n Proto implementation for Java
-    * 2026-02-26: [1a0ac9d](https://github.com/capnproto/capnproto-java/commit/1a0ac9d2e0e607ccae7ca83cb3aacce93b065dd7) ⭐ 446 | 🐛 42 | 🌐 Java | 📅 2026-02-01
+    * 2026-02-26: [1a0ac9d](https://github.com/capnproto/capnproto-java/commit/1a0ac9d2e0e607ccae7ca83cb3aacce93b065dd7) ⭐ 445 | 🐛 42 | 🌐 Java | 📅 2026-02-01
     * 2014-10: [capnproto-java alpha release with benchmarks](https://dwrensha.github.io/capnproto-java/2014/10/13/alpha-release.html)
 * rust
-  * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,523 | 🐛 101 | 🌐 Rust | 📅 2026-11-19
-    * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,523 | 🐛 101 | 🌐 Rust | 📅 2026-11-19
-  * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 842 | 🐛 33 | 🌐 Rust | 📅 2026-10-19 Capability-oriented version of the Rust standard library
-    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 842 | 🐛 33 | 🌐 Rust | 📅 2026-10-19
-  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 108 | 🐛 213 | 🌐 Rust | 📅 2026-11-19 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
+  * [capnproto/capnproto-rust: Cap'n Proto for Rust](https://github.com/capnproto/capnproto-rust) ⭐ 2,522 | 🐛 101 | 🌐 Rust | 📅 2026-11-19
+    * 2022-11: [Release capnpc-v0.15.0 · capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust/releases/tag/capnpc-v0.15.0) ⭐ 2,522 | 🐛 101 | 🌐 Rust | 📅 2026-11-19
+  * [cap-std](https://github.com/sunfishcode/cap-std) ⭐ 841 | 🐛 33 | 🌐 Rust | 📅 2026-10-19 Capability-oriented version of the Rust standard library
+    * 2022-11: [Release v1.0.0 · bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std/releases/tag/v1.0.0) ⭐ 841 | 🐛 33 | 🌐 Rust | 📅 2026-10-19
+  * [Tenuo](https://github.com/tenuo-ai/tenuo) ⭐ 109 | 🐛 217 | 🌐 Rust | 📅 2026-11-20 - Capability-based authorization for AI agents. Uses cryptographic warrants with offline attenuation to enforce least-privilege boundaries on LLM tool calls.
     * 2025-12: [Capability Delegation for AI Agents](https://niyikiza.com/posts/capability-delegation/) - design rationale
     * 2025-12: [v0.1 released](https://niyikiza.com/posts/tenuo-launch/)
   * [Using Capabilities to Design Safer, More Expressive APIs](https://web.archive.org/web/20180903114550/https://zsck.co/writing/capability-based-apis.html)
     Zack Mullaly Jan 19, 2018
   * [The Syndicated Actor Model](https://git.syndicate-lang.org/syndicate-lang/syndicate-rs)
 * go
-  * [capnproto/go-capnproto2: Cap'n Proto library and code generator for Go](https://github.com/capnproto/go-capnproto2) ⭐ 1,417 | 🐛 45 | 🌐 Go | 📅 2026-07-27
-    * 2019-12: [Release v2.18.0 · capnproto/go-capnproto2](https://github.com/capnproto/go-capnproto2/releases/tag/v2.18.0) ⭐ 1,417 | 🐛 45 | 🌐 Go | 📅 2026-07-27
+  * [capnproto/go-capnproto2: Cap'n Proto library and code generator for Go](https://github.com/capnproto/go-capnproto2) ⭐ 1,416 | 🐛 45 | 🌐 Go | 📅 2026-07-27
+    * 2019-12: [Release v2.18.0 · capnproto/go-capnproto2](https://github.com/capnproto/go-capnproto2/releases/tag/v2.18.0) ⭐ 1,416 | 🐛 45 | 🌐 Go | 📅 2026-07-27
 * python
   * [Flask-Security-Too](https://flask-security-too.readthedocs.io/) — security extension for Flask with token-based password reset and email confirmation using time-limited, signed URLs.
 
@@ -243,7 +243,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
     OOPSLA 2013
 
 * [Austral](https://austral-lang.org/) - a systems language with linear types and capability security
-  * 2022-09: [Release 0.1.0: Core language complete](https://github.com/austral/austral/releases/tag/v0.1.0) ⭐ 1,604 | 🐛 28 | 🌐 OCaml | 📅 2025-07-28
+  * 2022-09: [Release 0.1.0: Core language complete](https://github.com/austral/austral/releases/tag/v0.1.0) ⭐ 1,602 | 🐛 29 | 🌐 OCaml | 📅 2025-07-28
 
 * [Newspeak](https://newspeaklanguage.org/) is an object-capability programming platform that lets you develop code in your web browser. Like Self, Newspeak is message-based; all names are dynamically bound. However, like Smalltalk, Newspeak uses classes rather than prototypes.
   The current version of Newspeak runs on top of WASM.
@@ -400,7 +400,7 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 ## Presentations, Talks, Slides, and Videos
 
 * 2026-04: [Containing AI Agents: The Endo Familiar Demo](https://dcfoundation.io/containing-ai-agents-the-endo-familiar-demo/) "Kris Kowal demos a prototype agent host on Endo / HardenedJS: the agent starts with only an instruction primer and gains authority only by being handed references, such as a single directory mount it can attenuate to read-only"
-  * [endojs/endo](https://github.com/endojs/endo) ⭐ 1,076 | 🐛 540 | 🌐 JavaScript | 📅 2026-10-29
+  * [endojs/endo](https://github.com/endojs/endo) ⭐ 1,075 | 🐛 540 | 🌐 JavaScript | 📅 2026-10-29
 
 * 2025-06: [Sandbox Your Program Using FreeBSD's Capsicum](https://www.bsdcan.org/2025/talks/capsicum.pdf) "Jake Freeland presents a practical BSDCan tutorial on applying Capsicum to real programs, covering capability mode, pre-opened resources, compartmentalization, and `libcasper` patterns such as `cap_net`"
   * [BSDCan timetable entry](https://www.bsdcan.org/2025/timetable/timetable-Sandbox-Your-Program.html)
@@ -595,4 +595,4 @@ Or for a detailed explanation: [What Are Capabilities?](https://web.archive.org/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
